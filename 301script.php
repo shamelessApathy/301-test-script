@@ -8,7 +8,7 @@
 	$checkArray = [];
 	foreach ($check_csv as $url)
 	{
-		$editUrl = 'http://threeohone.dev' . $url[0] . '/';
+		$editUrl = 'http://dev.venthoodpro.com' . $url[0] . '/';
 		array_push($checkArray, $editUrl);
 	}
 	// Define and restructure the arrays holding the csv values
@@ -17,7 +17,7 @@
 	$newArray = [];
 	foreach ($urls as $url)
 	{
-		$editUrl = 'threeohone.dev' . $url[0];
+		$editUrl = 'dev.venthoodpro.com' . $url[0];
 		array_push($newArray, $editUrl);
 	}
 // Set counter to have iterations of the foreach match the index of the $check_list array
@@ -32,16 +32,26 @@ foreach ($newArray as $url) {
        CURLOPT_FOLLOWLOCATION => true,
        CURLOPT_RETURNTRANSFER => true,
    ));
-
    $result = curl_exec($ch);
    $final = curl_getinfo($ch, CURLINFO_EFFECTIVE_URL); // <-- This is the final landing point of the redirect(s)
+   echo 'another';
+   while(substr($final, -1) === '/')
+   {
+    echo 'running while loop 1st';
+    $final = substr($final, 0,-1);
+   }
+   while(substr($checkArray[$counter], -1) === '/')
+   {
+    $checkArray[$counter] = substr($checkArray[$counter], 0, -1);
+   }
    $httpCode = curl_getinfo($ch, CURLINFO_HTTP_CODE);
-   echo $httpCode;
+   $msg = "This threw a 404: " . $url;
    if($httpCode == 404) {
-   	echo "This threw a 404: " . $url;
+   	file_put_contents('404.txt', $msg, FILE_APPEND);
    }
    if (!($final === $checkArray[$counter])){
-   	echo 'End URL should be: ' . $newArray[$counter] . PHP_EOL . "But is actually returning: " . $checkArray[$counter] . PHP_EOL; 
+   	$msg = 'End URL should be: ' . $checkArray[$counter] . PHP_EOL . "But is actually returning: " . $final . PHP_EOL . 'counter iteration:' . $counter . PHP_EOL . '           ' . PHP_EOL;
+    file_put_contents('errors.txt', $msg, FILE_APPEND) ;
    }
    curl_close($ch);
    $counter++;
