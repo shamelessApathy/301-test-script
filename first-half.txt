@@ -1,0 +1,128 @@
+         
+         
+End URL should be: http://dev.venthoodpro.com/24-classic-wall-hood-plfw-520-24-baffle-filter-480-cfm.html
+But is actually returning: http://dev.venthoodpro.com/24-classic-wall-hood-plfw-520-24-baffle-filter-480-cfm-html.html
+counter iteration:3     --
+           
+End URL should be: http://dev.venthoodpro.com/28-professional-hood-insert-model-plfl-832-28.html
+But is actually returning: http://dev.venthoodpro.com/28-professional-hood-insert-model-plfl-832-28-6-speed-1000cfm.html
+counter iteration:9  --
+           
+End URL should be: http://dev.venthoodpro.com/outdoor-range-hoods/30-outdoor-hoods.html 
+But is actually returning: http://dev.venthoodpro.com/outdoor-range-hoods/30-outdoor-hoods.html
+counter iteration:19   ???
+           
+End URL should be: http://dev.venthoodpro.com/outdoor-range-hoods.html 
+But is actually returning: http://dev.venthoodpro.com/outdoor-range-hoods.html
+counter iteration:23   ??
+           
+End URL should be: http://dev.venthoodpro.com/48-wall-hood-2000cfm-model-pljw-109-48.html
+But is actually returning: http://dev.venthoodpro.com/60-professional-wall-hood-2000-cfm-model-pljw-109-60.html
+counter iteration:51   --
+           
+End URL should be: http://dev.venthoodpro.com/54-island-range-hood-prov-i-54.html
+But is actually returning: http://dev.venthoodpro.com/54-island-rangehood-provi-54.html
+counter iteration:54 --
+           
+End URL should be: http://dev.venthoodpro.com/checkout/cart/ 
+But is actually returning: http://dev.venthoodpro.com/checkout/cart
+counter iteration:71
+           
+End URL should be: http://dev.venthoodpro.com/checkout/cart/      
+But is actually returning: http://dev.venthoodpro.com/checkout/cart
+counter iteration:72
+           
+End URL should be: http://dev.venthoodpro.com/54-professional-wall-hood-pljw-109-54.html
+But is actually returning: http://dev.venthoodpro.com/54-professional-wall-hood-2000-cfm-model-pljw-109-511.html
+counter iteration:91
+           
+End URL should be: http://dev.venthoodpro.com/wall-range-hoods/42-wall-hood.html
+But is actually returning: http://dev.venthoodpro.com`
+counter iteration:134
+           
+End URL should be: http://dev.venthoodpro.com/48-wall-range-hood-plfi-755-48.html
+But is actually returning: http://dev.venthoodpro.com/48-island-range-hood-plfi-755-48.html
+counter iteration:137
+           
+End URL should be: http://dev.venthoodpro.com/36-inch-pros-island-range-hood-660cfm-prosi36.html
+But is actually returning: http://dev.venthoodpro.com/36-inch-pros-island-range-hood-prosi36.html
+counter iteration:148
+           
+           
+           
+End URL should be: http://dev.venthoodpro.com36-wall-range-hood-plfw-755-36
+But is actually returning: http://dev.venthoodpro.com/6-wall-range-hood-plfw-755-36
+counter iteration:190
+           
+End URL should be: http://dev.venthoodpro.com28-pro-hood-insert-plzw-ins-2815-900-4-spd-900cfm-15-deep
+But is actually returning: http://dev.venthoodpro.com/8-pro-hood-insert-plzw-ins-2815-900-4-spd-900cfm-15-deep
+counter iteration:207
+           
+End URL should be: http://dev.venthoodpro.comthere login logoff system needs fixing
+But is actually returning: http://dev.venthoodpro.com/index.php?main_page=logoff
+counter iteration:231
+           
+End URL should be: http://dev.venthoodpro.comredirects to homepage
+But is actually returning: http://dev.venthoodpro.com/index.php?ref=lexity&_vs=google&ad=47742722580&_vm=cpm
+counter iteration:236
+           
+End URL should be: http://dev.venthoodpro.comdirects to nowhere
+But is actually returning: http://dev.venthoodpro.com/index.php?main_page=product_info
+counter iteration:251
+           
+End URL should be: http://dev.venthoodpro.com42-professional-wall-hood-commercial-quality-pljw-129-42
+But is actually returning: http://dev.venthoodpro.com/2-professional-wall-hood-commercial-quality-pljw-129-42
+counter iteration:260
+           
+           
+           
+End URL should be: http://dev.venthoodpro.comcreate reviews page
+But is actually returning: http://dev.venthoodpro.com/index.php?main_page=reviews
+counter iteration:297
+           
+End URL should be: http://dev.venthoodpro.com42-island-range-hood-6-speed-plfi-520-42
+But is actually returning: http://dev.venthoodpro.com/2-island-range-hood-6-speed-plfi-520-42
+counter iteration:330
+           
+           
+           
+           
+End URL should be: http://dev.venthoodpro.com/catalogsearch/advanced/result/?name=&description=cylinder&short_description=&sku=&price%5Bfrom%5D=&price%5Bto%5D=&special_price%5Bfrom%5D=&special_price%5Bto%5D=&finish=&power=&sales_features=&hood_height_inches=&featured=&retail_price%5Bfrom%5D=&retail_price%5Bto%5D=
+But is actually returning: http://dev.venthoodpro.com/catalogsearch/advanced/result/?name=&description=cylinder&short_description=&sku=&priceBfromD=&priceBtoD=&special_priceBfromD=&special_priceBtoD=&finish=&power=&sales_features=&hood_height_inches=&featured=&retail_priceBfromD=&retail_priceBtoD=
+counter iteration:407
+           
+           
+End URL should be: http://dev.venthoodpro.com/catalogsearch/advanced/result/?name=&description=1000+cfm&short_description=&sku=&price%5Bfrom%5D=&price%5Bto%5D=&special_price%5Bfrom%5D=&special_price%5Bto%5D=&finish=&power=&sales_features=&hood_height_inches=&featured=&retail_price%5Bfrom%5D=&retail_price%5Bto%5D=
+But is actually returning: http://dev.venthoodpro.com/index.php?main_page=advanced_search_result&search_in_description=1&keyword=1000+cfm&x=0&y=0&crtag=g1
+counter iteration:470
+           
+End URL should be: http://dev.venthoodpro.com/catalogsearch/result/?q=pljw+121
+But is actually returning: http://dev.venthoodpro.com/index.php?main_page=advanced_search_result&search_in_description=1&keyword=pljw+121&x=31&y=10
+counter iteration:474
+           
+End URL should be: http://dev.venthoodpro.com/catalogsearch/advanced/result/?name=&description=&short_description=&sku=&price%5Bfrom%5D=1&price%5Bto%5D=&special_price%5Bfrom%5D=&special_price%5Bto%5D=&finish=&power=&hood_type%5B%5D=13&sales_features=&hood_height_inches=&hood_width_inches%5B%5D=66&featured=&retail_price%5Bfrom%5D=&retail_price%5Bto%5D=
+But is actually returning: http://dev.venthoodpro.com/index.php?main_page=advanced_search&keyword=Search&search_in_description=1&categories_id=40&pfrom=100&pto=1000&inc_subcat=0&sort=20a
+counter iteration:475
+           
+End URL should be: http://dev.venthoodpro.com/catalogsearch/result/?q=30+Wall+Mount+Range+Hood%2C+6+SPEED+-+PLFW+520.30
+But is actually returning: http://dev.venthoodpro.com/index.php?main_page=advanced_search_result&search_in_description=1&keyword=30+Wall+Mount+Range+Hood
+counter iteration:503
+           
+End URL should be: http://dev.venthoodpro.com/catalogsearch/result/?___SID=U&p=5&q=island+range+hood
+But is actually returning: http://dev.venthoodpro.com/index.php?main_page=advanced_search_result&search_in_description=1&keyword=Island range hood&inc_subcat=0&sort=20a&page=6
+counter iteration:509
+           
+End URL should be: http://dev.venthoodpro.com/60-wall-range-hood-prov-60w.html 
+But is actually returning: http://dev.venthoodpro.com/60-wall-range-hood-prov-60w.html
+counter iteration:518
+           
+           
+           
+End URL should be: http://dev.venthoodpro.com/catalogsearch/result/?q=telescopic+downsraft
+But is actually returning: http://dev.venthoodpro.com/index.php?main_page=advanced_search&search_in_description=1&keyword=Telescopic downsraft&inc_subcat=0&sort=20a
+counter iteration:562
+           
+End URL should be: http://dev.venthoodpro.com/48-island-range-hood-plji-101.html
+But is actually returning: http://dev.venthoodpro.com/48-island-range-hood-plji-101-48.html
+counter iteration:586
+           
