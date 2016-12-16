@@ -406,7 +406,7 @@
 /catalogsearch/result/?q=129.30
 /catalogsearch/result/?q=544.30
 /catalogsearch/advanced/result/?name=&description=cylinder&short_description=&sku=&price%5Bfrom%5D=&price%5Bto%5D=&special_price%5Bfrom%5D=&special_price%5Bto%5D=&finish=&power=&sales_features=&hood_height_inches=&featured=&retail_price%5Bfrom%5D=&retail_price%5Bto%5D=
-/customer/account/create/index.php
+/customer/account/create
 /professional-range-hoods/54-professional-series-hoods.html
 /under-cabinet-hoods/36-under-cabinet-hoods.html
 /30-pro-series-model-plfw-832-30-1000-cfm.html
@@ -546,8 +546,9 @@
 /54-proline-pljw-104-wall-range-hood.html
 /pljw-129-30-36-24-chimney-extension-single-piece.html
 /index.php
+/index.php
 /professional-range-hoods.html
-/catalogsearch/result/?q=102.48
+/catalogsearch/result/?q=120.48
 /catalogsearch/result/?q=120.30
 /catalogsearch/result/?q=125.36
 /catalogsearch/result/?q=129j.30
@@ -583,7 +584,7 @@
 /42-island-range-hood-plji-103-42.html
 /48-island-hood-plfi-750-48-1100cfm.html
 /48-kecom-island-hood-1200-cfm.html
-/48-island-range-hood-plji-101.html
+/48-island-range-hood-plji-101-48.html
 /wall-range-hoods/30-wall-hoods.html?___SID=kk89vl0t7pdr5kolnltk812vb5U
 /30-professional-range-hood-pljw102-30.html
 /36-professional-range-hood-model-plfw812-36-w-1000-cfm-blower.html
@@ -613,8 +614,12 @@
 /54-wall-range-hood-plfi-755-54.html
 /42-wall-range-hood-plfw-755-42.html
 /36-island-range-hood-slimline-pro-plfi-544-36.html
-/checkout/cartindex.php
-/checkout/cartindex.php
+/checkout/cart
+/checkout/cart
+/
+/
+/
+/
 /outdoor-range-hoods/48-outdoor-hoods.html
 /outdoor-range-hoods/54-outdoor-hoods.html
 /catalogsearch/result/?q=101.30
