@@ -1,2285 +1,1400 @@
+URL to redirect: http://dev.venthoodpro.com/index.php?main_page=advanced_search_result&search_in_description=1&keyword=1000+cfm&x=0&y=0&crtag=g1
+End URL should be:|http://dev.venthoodpro.com/catalogsearch/advanced/result/?name=&description=1000+cfm&short_description=&sku=&price%5Bfrom%5D=&price%5Bto%5D=&special_price%5Bfrom%5D=&special_price%5Bto%5D=&finish=&power=&sales_features=&hood_height_inches=&featured=&retail_price%5Bfrom%5D=&retail_price%5Bto%5D=|
+But is actually returning:|http://dev.venthoodpro.com/index.php?main_page=advanced_search_result&search_in_description=1&keyword=1000+cfm&x=0&y=0&crtag=g1|
+counter iteration:469
+           
+URL to redirect: http://dev.venthoodpro.com/index.php?main_page=advanced_search_result&search_in_description=1&keyword=pljw+121&x=31&y=10
+End URL should be:|http://dev.venthoodpro.com/catalogsearch/result/?q=pljw+121|
+But is actually returning:|http://dev.venthoodpro.com/index.php?main_page=advanced_search_result&search_in_description=1&keyword=pljw+121&x=31&y=10|
+counter iteration:473
+           
+URL to redirect: http://dev.venthoodpro.com/index.php?main_page=advanced_search&keyword=Search&search_in_description=1&categories_id=40&pfrom=100&pto=1000&inc_subcat=0&sort=20a
+End URL should be:|http://dev.venthoodpro.com/catalogsearch/advanced/result/?name=&description=&short_description=&sku=&price%5Bfrom%5D=1&price%5Bto%5D=&special_price%5Bfrom%5D=&special_price%5Bto%5D=&finish=&power=&hood_type%5B%5D=13&sales_features=&hood_height_inches=&hood_width_inches%5B%5D=66&featured=&retail_price%5Bfrom%5D=&retail_price%5Bto%5D=|
+But is actually returning:|http://dev.venthoodpro.com/index.php?main_page=advanced_search&keyword=Search&search_in_description=1&categories_id=40&pfrom=100&pto=1000&inc_subcat=0&sort=20a|
+counter iteration:474
+           
+URL to redirect: http://dev.venthoodpro.com/index.php?main_page=advanced_search_result&search_in_description=1&keyword=30+Wall+Mount+Range+Hood
+End URL should be:|http://dev.venthoodpro.com/catalogsearch/result/?q=30+Wall+Mount+Range+Hood%2C+6+SPEED+-+PLFW+520.30|
+But is actually returning:|http://dev.venthoodpro.com/index.php?main_page=advanced_search_result&search_in_description=1&keyword=30+Wall+Mount+Range+Hood|
+counter iteration:502
+           
+URL to redirect: http://dev.venthoodpro.com/index.php?main_page=advanced_search_result&search_in_description=1&keyword=Island range hood&inc_subcat=0&sort=20a&page=6
+End URL should be:|http://dev.venthoodpro.com/catalogsearch/result/?___SID=U&p=5&q=island+range+hood|
+But is actually returning:|http://dev.venthoodpro.com/index.php?main_page=advanced_search_result&search_in_description=1&keyword=Island range hood&inc_subcat=0&sort=20a&page=6|
+counter iteration:508
+           
+URL to redirect: http://dev.venthoodpro.com/index.php?main_page=password_forgotten
+End URL should be:|http://dev.venthoodpro.com/customer/account/forgotpassword/index.php|
+But is actually returning:|http://dev.venthoodpro.com/customer/account/forgotpassword|
+counter iteration:511
+           
+URL to redirect: http://dev.venthoodpro.com/index.php?ref=lexity&_vs=google&ad=46281943740&_vm=cpm
+End URL should be:|http://dev.venthoodpro.com/index.php|
+But is actually returning:|http://dev.venthoodpro.com/professional-range-hoods.html|
+counter iteration:547
+           
 URL to redirect: http://dev.venthoodpro.com/index.php?main_page=advanced_search&search_in_description=1&keyword=Telescopic downsraft&inc_subcat=0&sort=20a
 End URL should be:|http://dev.venthoodpro.com/catalogsearch/result/?q=telescopic+downsraft|
 But is actually returning:|http://dev.venthoodpro.com/index.php?main_page=advanced_search&search_in_description=1&keyword=Telescopic downsraft&inc_subcat=0&sort=20a|
-counter iteration:562
+counter iteration:561
            
 URL to redirect: http://dev.venthoodpro.com/index.php?main_page=product_info&products_id=3&client=ms-android-verizon&sourceid=chrome-mobile&ie=UTFhttps://www.google.com/search?q=vs&client=ms-android-verizon&sourceid=chrome-mobile&ie=UTF-8https://www.google.com/search?q=vs&client=ms-android-verizon&sourceid=chrome-mobile&ie=UTF-8https://www.google.com/search?q=vs&client=ms-android-verizon&sourceid=chrome-mobile&ie=UTF-8https://www.google.com/search?q=vs&client=ms-android-verizon&sourceid=chrome-mobile&ie=UTF-8https://www.google.com/search?q=vs&client=ms-android-verizon&sourceid=chrome-mobile&ie=UTF-8-8014 15
 End URL should be:|http://dev.venthoodpro.com/30-professional-wall-hood-commercial-quality-pljw-129-30.html|
 But is actually returning:|http://dev.venthoodpro.com/index.php?main_page=product_info&products_id=3&client=ms-android-verizon&sourceid=chrome-mobile&ie=UTFhttps://www.google.com/search?q=vs&client=ms-android-verizon&sourceid=chrome-mobile&ie=UTF-8https://www.google.com/search?q=vs&client=ms-android-verizon&sourceid=chrome-mobile&ie=UTF-8https://www.google.com/search?q=vs&client=ms-android-verizon&sourceid=chrome-mobile&ie=UTF-8https://www.google.com/search?q=vs&client=ms-android-verizon&sourceid=chrome-mobile&ie=UTF-8https://www.google.com/search?q=vs&client=ms-android-verizon&sourceid=chrome-mobile&ie=UTF-8-8014 15|
-counter iteration:609
+counter iteration:608
            
 URL to redirect: http://dev.venthoodpro.com/index.php?ref=lexity&_vs=google&ad=46281941700&_vm=cpm
 End URL should be:|http://dev.venthoodpro.com|
 But is actually returning:|http://dev.venthoodpro.com/index.php|
-counter iteration:618
+counter iteration:617
            
 URL to redirect: http://dev.venthoodpro.com/index.php?ref=lexity&_vs=google&ad=46281943260&_vm=cpm
 End URL should be:|http://dev.venthoodpro.com|
 But is actually returning:|http://dev.venthoodpro.com/index.php|
-counter iteration:619
+counter iteration:618
            
 URL to redirect: http://dev.venthoodpro.com/index.php?ref=lexity&_vs=google&ad=46282064820&_vm=cpm
 End URL should be:|http://dev.venthoodpro.com|
 But is actually returning:|http://dev.venthoodpro.com/index.php|
-counter iteration:620
+counter iteration:619
            
 URL to redirect: http://dev.venthoodpro.com/index.php?ref=lexity&_vs=google&ad=47743024380&_vm=cpm
 End URL should be:|http://dev.venthoodpro.com|
 But is actually returning:|http://dev.venthoodpro.com/index.php|
-counter iteration:621
+counter iteration:620
            
 URL to redirect: http://dev.venthoodpro.com/index.php?main_page=advanced_search_result&search_in_description=1&keyword=48 pro v range hood&inc_subcat=0&sort=20a&page=8
 End URL should be:|http://dev.venthoodpro.com/catalogsearch/result/?q=48+pro+range+hood|
 But is actually returning:|http://dev.venthoodpro.com/index.php?main_page=advanced_search_result&search_in_description=1&keyword=48 pro v range hood&inc_subcat=0&sort=20a&page=8|
-counter iteration:646
+counter iteration:645
            
 URL to redirect: http://dev.venthoodpro.com/index.php?main_page=advanced_search_result&search_in_description=1&keyword=48+inch+&x=34&y=5
 End URL should be:|http://dev.venthoodpro.com/catalogsearch/result/?q=48+inch|
 But is actually returning:|http://dev.venthoodpro.com/index.php?main_page=advanced_search_result&search_in_description=1&keyword=48+inch+&x=34&y=5|
-counter iteration:647
+counter iteration:646
            
 URL to redirect: http://dev.venthoodpro.com/index.php?main_page=advanced_search_result&search_in_description=1&keyword=60&inc_subcat=0&sort=20a&page=3
 End URL should be:|http://dev.venthoodpro.com/catalogsearch/advanced/result/?name=&description=60&short_description=&sku=&price%5Bfrom%5D=&price%5Bto%5D=&special_price%5Bfrom%5D=&special_price%5Bto%5D=&finish=&power=&sales_features=&hood_height_inches=&featured=&retail_price%5Bfrom%5D=&retail_price%5Bto%5D=|
 But is actually returning:|http://dev.venthoodpro.com/catalogsearch/advanced/result/?name=&description=60&short_description=&sku=&priceBfromD=&priceBtoD=&special_priceBfromD=&special_priceBtoD=&finish=&power=&sales_features=&hood_height_inches=&featured=&retail_priceBfromD=&retail_priceBtoD=|
-counter iteration:649
+counter iteration:648
            
 URL to redirect: http://dev.venthoodpro.com/index.php?main_page=advanced_search_result&search_in_description=1&keyword=Black+stainless&x=0&y=0
 End URL should be:|http://dev.venthoodpro.com/catalogsearch/result/?q=black+stainless|
 But is actually returning:|http://dev.venthoodpro.com/index.php?main_page=advanced_search_result&search_in_description=1&keyword=Black+stainless&x=0&y=0|
-counter iteration:655
+counter iteration:654
            
 URL to redirect: http://dev.venthoodpro.com/index.php?main_page=advanced_search_result&search_in_description=1&keyword=Ductless hood&inc_subcat=0&sort=20a&page=3
 End URL should be:|http://dev.venthoodpro.com/catalogsearch/result/?q=ductless+hoods|
 But is actually returning:|http://dev.venthoodpro.com/index.php?main_page=advanced_search_result&search_in_description=1&keyword=Ductless hood&inc_subcat=0&sort=20a&page=3|
-counter iteration:657
+counter iteration:656
            
 URL to redirect: http://dev.venthoodpro.com/index.php?main_page=advanced_search_result&search_in_description=1&keyword=kb3.42&x=0&y=0
 End URL should be:|http://dev.venthoodpro.compageisprefilledin|
 But is actually returning:|http://dev.venthoodpro.com/index.php?main_page=advanced_search_result&search_in_description=1&keyword=kb3.42&x=0&y=0|
-counter iteration:659
+counter iteration:658
            
 URL to redirect: http://dev.venthoodpro.com/index.php?main_page=advanced_search_result&search_in_description=1&keyword=plfw+582&x=0&y=0
 End URL should be:|http://dev.venthoodpro.com/catalogsearch/result/?q=plfw+582|
 But is actually returning:|http://dev.venthoodpro.com/index.php?main_page=advanced_search_result&search_in_description=1&keyword=plfw+582&x=0&y=0|
-counter iteration:660
+counter iteration:659
            
 URL to redirect: http://dev.venthoodpro.com/index.php?main_page=advanced_search_result&search_in_description=1&keyword=pljw+113&x=0&y=0
 End URL should be:|http://dev.venthoodpro.com/catalogsearch/result/?q=pljw+113|
 But is actually returning:|http://dev.venthoodpro.com/index.php?main_page=advanced_search_result&search_in_description=1&keyword=pljw+113&x=0&y=0|
-counter iteration:661
+counter iteration:660
            
 URL to redirect: http://dev.venthoodpro.com/index.php?main_page=advanced_search_result&search_in_description=1&keyword=PLJW+125.30&x=0&y=0
 End URL should be:|http://dev.venthoodpro.com/catalogsearch/result/?q=pljw+125.30|
 But is actually returning:|http://dev.venthoodpro.com/index.php?main_page=advanced_search_result&search_in_description=1&keyword=PLJW+125.30&x=0&y=0|
-counter iteration:662
+counter iteration:661
            
 URL to redirect: http://dev.venthoodpro.com/index.php?main_page=advanced_search_result&search_in_description=1&keyword=PROLINE+PLFW+832&x=15&y=12
 End URL should be:|http://dev.venthoodpro.com/catalogsearch/result/?q=plfw+832|
 But is actually returning:|http://dev.venthoodpro.com/index.php?main_page=advanced_search_result&search_in_description=1&keyword=PROLINE+PLFW+832&x=15&y=12|
-counter iteration:663
+counter iteration:662
            
 URL to redirect: http://dev.venthoodpro.com/index.php?main_page=advanced_search_result&search_in_description=1&keyword=Range hoods&inc_subcat=0&sort=20a&page=12
 End URL should be:|http://dev.venthoodpro.com/catalogsearch/result/?q=range+hoods|
 But is actually returning:|http://dev.venthoodpro.com/index.php?main_page=advanced_search_result&search_in_description=1&keyword=Range hoods&inc_subcat=0&sort=20a&page=12|
-counter iteration:666
+counter iteration:665
            
 URL to redirect: http://dev.venthoodpro.com/index.php?main_page=advanced_search_result&search_in_description=1&keyword=roof+cap&x=0&y=0
 End URL should be:|http://dev.venthoodpro.com/catalogsearch/result/?q=roof+cap|
 But is actually returning:|http://dev.venthoodpro.com/index.php?main_page=advanced_search_result&search_in_description=1&keyword=roof+cap&x=0&y=0|
-counter iteration:668
+counter iteration:667
            
 URL to redirect: http://dev.venthoodpro.com/index.php?main_page=advanced_search_result&search_in_description=1&keyword=vector+30&x=0&y=0
 End URL should be:|http://dev.venthoodpro.com/catalogsearch/result/?q=vector+30|
 But is actually returning:|http://dev.venthoodpro.com/catalogsearch/result/?q=vector.30|
-counter iteration:669
+counter iteration:668
            
 URL to redirect: http://dev.venthoodpro.com/index.php?main_page=advanced_search&search_in_description=1&keyword=115.36&inc_subcat=0&sort=20a
 End URL should be:|http://dev.venthoodpro.compageisprefilledin|
 But is actually returning:|http://dev.venthoodpro.com/index.php?main_page=advanced_search&search_in_description=1&keyword=115.36&inc_subcat=0&sort=20a|
-counter iteration:670
+counter iteration:669
            
 URL to redirect: http://dev.venthoodpro.com/index.php?main_page=advanced_search&search_in_description=1&keyword=544.48&inc_subcat=0&sort=20a
 End URL should be:|http://dev.venthoodpro.compageisprefilledin|
 But is actually returning:|http://dev.venthoodpro.com/index.php?main_page=advanced_search&search_in_description=1&keyword=544.48&inc_subcat=0&sort=20a|
-counter iteration:671
+counter iteration:670
            
 URL to redirect: http://dev.venthoodpro.com/index.php?main_page=advanced_search&search_in_description=1&keyword=hood auctions boca raton fl&inc_subcat=0&sort=20a
 End URL should be:|http://dev.venthoodpro.compageisprefilledin|
 But is actually returning:|http://dev.venthoodpro.com/index.php?main_page=advanced_search&search_in_description=1&keyword=hood auctions boca raton fl&inc_subcat=0&sort=20a|
-counter iteration:672
+counter iteration:671
            
 URL to redirect: http://dev.venthoodpro.com/index.php?main_page=advanced_search&search_in_description=1&keyword=pljw101&inc_subcat=0&sort=20a
 End URL should be:|http://dev.venthoodpro.compageisprefilledin|
 But is actually returning:|http://dev.venthoodpro.com/index.php?main_page=advanced_search&search_in_description=1&keyword=pljw101&inc_subcat=0&sort=20a|
-counter iteration:673
+counter iteration:672
            
 URL to redirect: http://dev.venthoodpro.com/index.php?main_page=advanced_search&search_in_description=1&keyword=Zinc&inc_subcat=0&sort=20a
 End URL should be:|http://dev.venthoodpro.compageisprefilledin|
 But is actually returning:|http://dev.venthoodpro.com/index.php?main_page=advanced_search&search_in_description=1&keyword=Zinc&inc_subcat=0&sort=20a|
-counter iteration:674
+counter iteration:673
            
 URL to redirect: http://dev.venthoodpro.com/index.php?main_page=index&cPath=78
 End URL should be:|http://dev.venthoodpro.commakeProVpackagepage|
 But is actually returning:|http://dev.venthoodpro.com/index.php?main_page=index&cPath=78|
-counter iteration:679
+counter iteration:678
            
 URL to redirect: http://dev.venthoodpro.com/index.php?main_page=product_info&cPat=
 End URL should be:|http://dev.venthoodpro.comproductnotfound|
 But is actually returning:|http://dev.venthoodpro.com/index.php?main_page=product_info&cPat=|
-counter iteration:681
+counter iteration:680
            
 URL to redirect: http://dev.venthoodpro.com/index.php?main_page=product_info&cPath=31_4
 End URL should be:|http://dev.venthoodpro.comdirectstonothing|
 But is actually returning:|http://dev.venthoodpro.com/index.php?main_page=product_info&cPath=31_4|
-counter iteration:697
+counter iteration:696
            
 URL to redirect: http://dev.venthoodpro.com/index.php?main_page=product_info&cPath=32_4
 End URL should be:|http://dev.venthoodpro.comdirectstonothing|
 But is actually returning:|http://dev.venthoodpro.com/index.php?main_page=product_info&cPath=32_4|
-counter iteration:702
+counter iteration:701
            
 URL to redirect: http://dev.venthoodpro.com/index.php?main_page=product_info&cPath=33_4
 End URL should be:|http://dev.venthoodpro.comproductnotfound|
 But is actually returning:|http://dev.venthoodpro.com/index.php?main_page=product_info&cPath=33_4|
-counter iteration:714
+counter iteration:713
            
 URL to redirect: http://dev.venthoodpro.com/index.php?main_page=product_info&products=
 End URL should be:|http://dev.venthoodpro.comproductnotfound|
 But is actually returning:|http://dev.venthoodpro.com/index.php?main_page=product_info&products=|
-counter iteration:755
+counter iteration:754
            
 URL to redirect: http://dev.venthoodpro.com/index.php?main_page=shopping_cart&product_id=425:ff70d129205e9ad6b75fb7f476203eac
 End URL should be:|http://dev.venthoodpro.com/checkout/cartindex.php|
 But is actually returning:|http://dev.venthoodpro.com/checkout/cart|
-counter iteration:761
+counter iteration:760
            
 URL to redirect: http://dev.venthoodpro.com/index.php?ref=lexity&_vs=google&ad=45886749900&_vm=cpm
 End URL should be:|http://dev.venthoodpro.comneednewpage|
 But is actually returning:|http://dev.venthoodpro.com/index.php|
-counter iteration:762
+counter iteration:761
            
 URL to redirect: http://dev.venthoodpro.com/index.php?ref=lexity&_vs=google&ad=46281941940&_vm=cpm
 End URL should be:|http://dev.venthoodpro.com/island-range-hoods/36-island-hoods.html?___SID=9rn41koamsvfqsot00pnuipj61U|
 But is actually returning:|http://dev.venthoodpro.com/index.php|
-counter iteration:764
+counter iteration:763
            
 URL to redirect: http://dev.venthoodpro.com/index.php?ref=lexity&_vs=google&ad=46281943140&_vm=cpm
 End URL should be:|http://dev.venthoodpro.com/under-cabinet-hoods.html|
 But is actually returning:|http://dev.venthoodpro.com/index.php|
-counter iteration:765
+counter iteration:764
            
 URL to redirect: http://dev.venthoodpro.com/index.php?ref=lexity&_vs=google&ad=46281943380&_vm=cpm
 End URL should be:|http://dev.venthoodpro.com/range-hood-inserts/40-range-hood-inserts.html|
 But is actually returning:|http://dev.venthoodpro.com/index.php|
-counter iteration:766
+counter iteration:765
            
 URL to redirect: http://dev.venthoodpro.com/index.php?ref=lexity&_vs=google&ad=46282004460&_vm=cpm
 End URL should be:|http://dev.venthoodpro.com/outdoor-range-hoods/36-outdoor-hoods.html|
 But is actually returning:|http://dev.venthoodpro.com/index.php|
-counter iteration:767
+counter iteration:766
            
 URL to redirect: http://dev.venthoodpro.com/index.php?ref=lexity&_vs=google&ad=47742661980&_vm=cpm
 End URL should be:|http://dev.venthoodpro.com/outdoor-range-hoods/42-outdoor-hoods.html|
 But is actually returning:|http://dev.venthoodpro.com/index.php?ref=lexity&_vs=google&ad=47742661980&_vm=cpm|
-counter iteration:768
+counter iteration:767
            
 URL to redirect: http://dev.venthoodpro.com/2014/05/choosing-right-indoor-range-hood-intro.html
 End URL should be:|http://dev.venthoodpro.com/outdoor-range-hoods/60-outdoor-hoods.html|
 But is actually returning:|http://dev.venthoodpro.com/2014/05/choosing-right-indoor-range-hood-intro.html|
-counter iteration:769
+counter iteration:768
            
 URL to redirect: http://dev.venthoodpro.com/index.php?cachebuster=20160702
 End URL should be:|http://dev.venthoodpro.com/outdoor-range-hoods.html|
 But is actually returning:|http://dev.venthoodpro.com/index.php|
-counter iteration:770
+counter iteration:769
            
 URL to redirect: http://dev.venthoodpro.com/index.php?cachebuster=20160704
 End URL should be:|http://dev.venthoodpro.com/catalogsearch/result/?q=amps|
 But is actually returning:|http://dev.venthoodpro.com/index.php|
-counter iteration:772
+counter iteration:771
            
 URL to redirect: http://dev.venthoodpro.com/index.php?cachebuster=20160705
 End URL should be:|http://dev.venthoodpro.com/catalogsearch/result/?q=ductless|
 But is actually returning:|http://dev.venthoodpro.com/index.php|
-counter iteration:773
+counter iteration:772
            
 URL to redirect: http://dev.venthoodpro.com/index.php?cachebuster=20160706
 End URL should be:|http://dev.venthoodpro.com/catalogsearch/result/?q=544.30|
 But is actually returning:|http://dev.venthoodpro.com/index.php|
-counter iteration:774
+counter iteration:773
            
 URL to redirect: http://dev.venthoodpro.com/index.php?cachebuster=20160707
 End URL should be:|http://dev.venthoodpro.com/catalogsearch/result/?q=prov+42wc|
 But is actually returning:|http://dev.venthoodpro.com/index.php|
-counter iteration:775
+counter iteration:774
            
 URL to redirect: http://dev.venthoodpro.com/index.php?cachebuster=20160708
 End URL should be:|http://dev.venthoodpro.com/catalogsearch/result/?q=101.36|
 But is actually returning:|http://dev.venthoodpro.com/index.php|
-counter iteration:776
+counter iteration:775
            
 URL to redirect: http://dev.venthoodpro.com/index.php?cachebuster=20160709
 End URL should be:|http://dev.venthoodpro.com/catalogsearch/result/?q=101.48|
 But is actually returning:|http://dev.venthoodpro.com/index.php|
-counter iteration:777
+counter iteration:776
            
 URL to redirect: http://dev.venthoodpro.com/index.php?cachebuster=20160710
 End URL should be:|http://dev.venthoodpro.com/catalogsearch/result/?q=102.30|
 But is actually returning:|http://dev.venthoodpro.com/index.php|
-counter iteration:778
+counter iteration:777
            
 URL to redirect: http://dev.venthoodpro.com/index.php?cachebuster=20160711
 End URL should be:|http://dev.venthoodpro.com/catalogsearch/result/?q=104.48|
 But is actually returning:|http://dev.venthoodpro.com/index.php|
-counter iteration:779
+counter iteration:778
            
 URL to redirect: http://dev.venthoodpro.com/index.php?cachebuster=20160712
 End URL should be:|http://dev.venthoodpro.com/catalogsearch/result/?q=108.30|
 But is actually returning:|http://dev.venthoodpro.com/index.php|
-counter iteration:780
+counter iteration:779
            
 URL to redirect: http://dev.venthoodpro.com/index.php?cachebuster=20160714
 End URL should be:|http://dev.venthoodpro.com/catalogsearch/result/?q=108.48|
 But is actually returning:|http://dev.venthoodpro.com/index.php|
-counter iteration:781
+counter iteration:780
            
 URL to redirect: http://dev.venthoodpro.com/index.php?cachebuster=20160716
 End URL should be:|http://dev.venthoodpro.com/catalogsearch/result/?q=109.30|
 But is actually returning:|http://dev.venthoodpro.com/index.php|
-counter iteration:782
+counter iteration:781
            
 URL to redirect: http://dev.venthoodpro.com/index.php?cachebuster=20160717
 End URL should be:|http://dev.venthoodpro.com/catalogsearch/result/?q=109.36|
 But is actually returning:|http://dev.venthoodpro.com/index.php|
-counter iteration:783
+counter iteration:782
            
 URL to redirect: http://dev.venthoodpro.com/index.php?cachebuster=20160718
 End URL should be:|http://dev.venthoodpro.com/catalogsearch/result/?q=109.36|
 But is actually returning:|http://dev.venthoodpro.com/index.php|
-counter iteration:784
+counter iteration:783
            
 URL to redirect: http://dev.venthoodpro.com/index.php?cachebuster=20160719
 End URL should be:|http://dev.venthoodpro.com/catalogsearch/result/?q=109.60|
 But is actually returning:|http://dev.venthoodpro.com/index.php|
-counter iteration:785
+counter iteration:784
            
 URL to redirect: http://dev.venthoodpro.com/index.php?cachebuster=20160720
 End URL should be:|http://dev.venthoodpro.com/catalogsearch/result/?q=113.48|
 But is actually returning:|http://dev.venthoodpro.com/index.php|
-counter iteration:786
+counter iteration:785
            
 URL to redirect: http://dev.venthoodpro.com/index.php?cachebuster=20160721
 End URL should be:|http://dev.venthoodpro.com/catalogsearch/result/?q=115.30|
 But is actually returning:|http://dev.venthoodpro.com/index.php|
-counter iteration:787
+counter iteration:786
            
 URL to redirect: http://dev.venthoodpro.com/index.php?cachebuster=20160722
 End URL should be:|http://dev.venthoodpro.com/catalogsearch/result/?q=115.48|
 But is actually returning:|http://dev.venthoodpro.com/index.php|
-counter iteration:788
+counter iteration:787
            
 URL to redirect: http://dev.venthoodpro.com/index.php?cachebuster=20160723
 End URL should be:|http://dev.venthoodpro.com/catalogsearch/result/?q=116.30|
 But is actually returning:|http://dev.venthoodpro.com/index.php|
-counter iteration:789
+counter iteration:788
            
 URL to redirect: http://dev.venthoodpro.com/index.php?cachebuster=20160725
 End URL should be:|http://dev.venthoodpro.com/catalogsearch/result/?q=109.48|
 But is actually returning:|http://dev.venthoodpro.com/index.php|
-counter iteration:790
+counter iteration:789
            
 URL to redirect: http://dev.venthoodpro.com/index.php?cachebuster=20160726
 End URL should be:|http://dev.venthoodpro.com/catalogsearch/result/?q=120.|
 But is actually returning:|http://dev.venthoodpro.com/index.php|
-counter iteration:791
+counter iteration:790
            
 URL to redirect: http://dev.venthoodpro.com/index.php?cachebuster=20160727
 End URL should be:|http://dev.venthoodpro.com/catalogsearch/result/?q=120.36|
 But is actually returning:|http://dev.venthoodpro.com/index.php|
-counter iteration:792
+counter iteration:791
            
 URL to redirect: http://dev.venthoodpro.com/index.php?cachebuster=20160728
 End URL should be:|http://dev.venthoodpro.com/catalogsearch/result/?q=1200+cfm|
 But is actually returning:|http://dev.venthoodpro.com/index.php|
-counter iteration:793
+counter iteration:792
            
 URL to redirect: http://dev.venthoodpro.com/index.php?cachebuster=20160729
 End URL should be:|http://dev.venthoodpro.com/catalogsearch/result/?q=121.30|
 But is actually returning:|http://dev.venthoodpro.com/index.php|
-counter iteration:794
+counter iteration:793
            
 URL to redirect: http://dev.venthoodpro.com/index.php?cachebuster=20160730
 End URL should be:|http://dev.venthoodpro.com/catalogsearch/result/?q=121|
 But is actually returning:|http://dev.venthoodpro.com/index.php|
-counter iteration:795
+counter iteration:794
            
 URL to redirect: http://dev.venthoodpro.com/index.php?cachebuster=20160731
 End URL should be:|http://dev.venthoodpro.com/catalogsearch/result/?q=129.48|
 But is actually returning:|http://dev.venthoodpro.com/index.php|
-counter iteration:796
+counter iteration:795
            
 URL to redirect: http://dev.venthoodpro.com/index.php?cachebuster=20160801
 End URL should be:|http://dev.venthoodpro.com/catalogsearch/result/?q=129|
 But is actually returning:|http://dev.venthoodpro.com/index.php|
-counter iteration:797
+counter iteration:796
            
 URL to redirect: http://dev.venthoodpro.com/index.php?cPath=31_41&main_page=index
 End URL should be:|http://dev.venthoodpro.com/catalogsearch/result/?q=129j.36|
 But is actually returning:|http://dev.venthoodpro.com/island-range-hoods/36-island-hoods.html?___SID=9rn41koamsvfqsot00pnuipj61U|
-counter iteration:798
+counter iteration:797
            
 URL to redirect: http://dev.venthoodpro.com/index.php?cPath=33&main_page=index
 End URL should be:|http://dev.venthoodpro.com/catalogsearch/result/?q=130.36|
 But is actually returning:|http://dev.venthoodpro.com/under-cabinet-hoods.html|
-counter iteration:799
+counter iteration:798
            
 URL to redirect: http://dev.venthoodpro.com/index.php?cPath=64_67&main_page=index
 End URL should be:|http://dev.venthoodpro.com/catalogsearch/result/?q=130.42|
 But is actually returning:|http://dev.venthoodpro.com/range-hood-inserts/40-range-hood-inserts.html|
-counter iteration:800
+counter iteration:799
            
 URL to redirect: http://dev.venthoodpro.com/index.php?cPath=71_73&main_page=index
 End URL should be:|http://dev.venthoodpro.com/catalogsearch/result/?q=180.30|
 But is actually returning:|http://dev.venthoodpro.com/outdoor-range-hoods/36-outdoor-hoods.html|
-counter iteration:801
+counter iteration:800
            
 URL to redirect: http://dev.venthoodpro.com/index.php?cPath=71_74&main_page=index
 End URL should be:|http://dev.venthoodpro.com/catalogsearch/result/?q=185.36|
 But is actually returning:|http://dev.venthoodpro.com/outdoor-range-hoods/42-outdoor-hoods.html|
-counter iteration:802
+counter iteration:801
            
 URL to redirect: http://dev.venthoodpro.com/index.php?cPath=71_77&main_page=index
 End URL should be:|http://dev.venthoodpro.com/catalogsearch/result/?q=185|
 But is actually returning:|http://dev.venthoodpro.com/outdoor-range-hoods/60-outdoor-hoods.html|
-counter iteration:803
+counter iteration:802
            
 URL to redirect: http://dev.venthoodpro.com/index.php?cPath=71&main_page=index
 End URL should be:|http://dev.venthoodpro.com/catalogsearch/result/?q=28+3/4|
 But is actually returning:|http://dev.venthoodpro.com/outdoor-range-hoods.html|
-counter iteration:804
+counter iteration:803
            
 URL to redirect: http://dev.venthoodpro.com/index.php?m=1
 End URL should be:|http://dev.venthoodpro.com/catalogsearch/result/?q=28+inch|
 But is actually returning:|http://dev.venthoodpro.com/index.php|
-counter iteration:805
+counter iteration:804
            
 URL to redirect: http://dev.venthoodpro.com/index.php?ma=
 End URL should be:|http://dev.venthoodpro.com/catalogsearch/result/?q=30++under+cabinet|
 But is actually returning:|http://dev.venthoodpro.com/index.php|
-counter iteration:806
+counter iteration:805
            
 URL to redirect: http://dev.venthoodpro.com/index.php?main_page=
 End URL should be:|http://dev.venthoodpro.com/catalogsearch/result/?q=30+inch+under+cabinet+hood|
 But is actually returning:|http://dev.venthoodpro.com/index.php?main_page=|
-counter iteration:807
+counter iteration:806
            
 URL to redirect: http://dev.venthoodpro.com/index.php?main_page=account_history_info&order_id=2045847
 End URL should be:|http://dev.venthoodpro.com/catalogsearch/result/?q=30+range+hood|
 But is actually returning:|http://dev.venthoodpro.com/index.php|
-counter iteration:808
+counter iteration:807
            
 URL to redirect: http://dev.venthoodpro.com/index.php?main_page=account_history_info&order_id=2046022
 End URL should be:|http://dev.venthoodpro.com/catalogsearch/result/?q=30+stainless+steel|
 But is actually returning:|http://dev.venthoodpro.com/index.php|
-counter iteration:809
+counter iteration:808
            
 URL to redirect: http://dev.venthoodpro.com/index.php?main_page=account_history_info&order_id=2046070
 End URL should be:|http://dev.venthoodpro.com/catalogsearch/result/?q=30+wall+mount|
 But is actually returning:|http://dev.venthoodpro.com/index.php|
-counter iteration:810
+counter iteration:809
            
 URL to redirect: http://dev.venthoodpro.com/index.php?main_page=advanced_search_result&keyword=amps&search_in_description=1&categories_id=&manufacturers_id=&pfrom=&pto=&dfrom=&dto=&x=0&y=0
 End URL should be:|http://dev.venthoodpro.com/catalogsearch/result/?q=30+island|
 But is actually returning:|http://dev.venthoodpro.com/catalogsearch/result/?q=amps|
-counter iteration:811
+counter iteration:810
            
 URL to redirect: http://dev.venthoodpro.com/index.php?main_page=advanced_search_result&keyword=ductless&search_in_description=1&categories_id=&manufacturers_id=1&pfrom=&pto=&dfrom=&dto=&x=0&y=0
 End URL should be:|http://dev.venthoodpro.com/catalogsearch/result/?q=30+professional+under+cabinet+hood|
 But is actually returning:|http://dev.venthoodpro.com/catalogsearch/result/?q=ductless|
-counter iteration:812
+counter iteration:811
            
 URL to redirect: http://dev.venthoodpro.com/index.php?main_page=advanced_search_result&search_in_description=1&keyword=+544.30&x=0&y=0
 End URL should be:|http://dev.venthoodpro.com/catalogsearch/result/?q=30+inch+glass+stainless+wall+hood|
 But is actually returning:|http://dev.venthoodpro.com/index.php?main_page=advanced_search_result&search_in_description=1&keyword=+544.30&x=0&y=0|
-counter iteration:813
+counter iteration:812
            
 URL to redirect: http://dev.venthoodpro.com/index.php?main_page=advanced_search_result&search_in_description=1&keyword=+ProV+42WC.430&x=0&y=0
 End URL should be:|http://dev.venthoodpro.com/catalogsearch/result/?q=30+inch+island+range+hoods|
 But is actually returning:|http://dev.venthoodpro.com/index.php?main_page=advanced_search_result&search_in_description=1&keyword=+ProV+42WC.430&x=0&y=0|
-counter iteration:814
+counter iteration:813
            
 URL to redirect: http://dev.venthoodpro.com/index.php?main_page=advanced_search_result&search_in_description=1&keyword=101.36&x=0&y=0
 End URL should be:|http://dev.venthoodpro.com/catalogsearch/result/?q=304+spec|
 But is actually returning:|http://dev.venthoodpro.com/catalogsearch/result/?q=101.36|
-counter iteration:815
+counter iteration:814
            
 URL to redirect: http://dev.venthoodpro.com/index.php?main_page=advanced_search_result&search_in_description=1&keyword=101.48&x=0&y=0
 End URL should be:|http://dev.venthoodpro.com/catalogsearch/result/?q=34.15|
 But is actually returning:|http://dev.venthoodpro.com/catalogsearch/result/?q=101.48|
-counter iteration:816
+counter iteration:815
            
 URL to redirect: http://dev.venthoodpro.com/index.php?main_page=advanced_search_result&search_in_description=1&keyword=102.30&x=0&y=0
 End URL should be:|http://dev.venthoodpro.com/catalogsearch/result/?q=34.18|
 But is actually returning:|http://dev.venthoodpro.com/catalogsearch/result/?q=102.30|
-counter iteration:817
+counter iteration:816
            
 URL to redirect: http://dev.venthoodpro.com/index.php?main_page=advanced_search_result&search_in_description=1&keyword=104.48&x=0&y=0
 End URL should be:|http://dev.venthoodpro.com/catalogsearch/result/?q=3415|
 But is actually returning:|http://dev.venthoodpro.com/catalogsearch/result/?q=104.48|
-counter iteration:818
+counter iteration:817
            
 URL to redirect: http://dev.venthoodpro.com/index.php?main_page=advanced_search_result&search_in_description=1&keyword=108.30&x=0&y=0
 End URL should be:|http://dev.venthoodpro.com/catalogsearch/result/?q=3418|
 But is actually returning:|http://dev.venthoodpro.com/catalogsearch/result/?q=108.30|
-counter iteration:819
+counter iteration:818
            
 URL to redirect: http://dev.venthoodpro.com/index.php?main_page=advanced_search_result&search_in_description=1&keyword=108.48&x=21&y=18
 End URL should be:|http://dev.venthoodpro.com/catalogsearch/result/?q=36|
 But is actually returning:|http://dev.venthoodpro.com/catalogsearch/result/?q=108.48|
-counter iteration:820
+counter iteration:819
            
 URL to redirect: http://dev.venthoodpro.com/index.php?main_page=advanced_search_result&search_in_description=1&keyword=109.30&x=0&y=0
 End URL should be:|http://dev.venthoodpro.com/catalogsearch/result/?q=36|
 But is actually returning:|http://dev.venthoodpro.com/catalogsearch/result/?q=109.30|
-counter iteration:821
+counter iteration:820
            
 URL to redirect: http://dev.venthoodpro.com/index.php?main_page=advanced_search_result&search_in_description=1&keyword=109.36&x=0&y=0
 End URL should be:|http://dev.venthoodpro.com/catalogsearch/result/?q=36+heat+lamp|
 But is actually returning:|http://dev.venthoodpro.com/catalogsearch/result/?q=109.36|
-counter iteration:822
+counter iteration:821
            
 URL to redirect: http://dev.venthoodpro.com/index.php?main_page=advanced_search_result&search_in_description=1&keyword=109.36&x=33&y=13
 End URL should be:|http://dev.venthoodpro.com/catalogsearch/result/?q=36+professional+range+hood+model+plfw812.36|
 But is actually returning:|http://dev.venthoodpro.com/catalogsearch/result/?q=109.36|
-counter iteration:823
+counter iteration:822
            
 URL to redirect: http://dev.venthoodpro.com/index.php?main_page=advanced_search_result&search_in_description=1&keyword=109.60&x=0&y=0
 End URL should be:|http://dev.venthoodpro.com/catalogsearch/result/?q=36+range+hood|
 But is actually returning:|http://dev.venthoodpro.com/catalogsearch/result/?q=109.60|
-counter iteration:824
+counter iteration:823
            
 URL to redirect: http://dev.venthoodpro.com/index.php?main_page=advanced_search_result&search_in_description=1&keyword=113.48&x=0&y=0
 End URL should be:|http://dev.venthoodpro.com/catalogsearch/result/?q=36+inch|
 But is actually returning:|http://dev.venthoodpro.com/catalogsearch/result/?q=113.48|
-counter iteration:825
+counter iteration:824
            
 URL to redirect: http://dev.venthoodpro.com/index.php?main_page=advanced_search_result&search_in_description=1&keyword=115.30&x=0&y=0
 End URL should be:|http://dev.venthoodpro.com/catalogsearch/result/?q=36+inch|
 But is actually returning:|http://dev.venthoodpro.com/catalogsearch/result/?q=115.30|
-counter iteration:826
+counter iteration:825
            
 URL to redirect: http://dev.venthoodpro.com/index.php?main_page=advanced_search_result&search_in_description=1&keyword=115.48&x=0&y=0
 End URL should be:|http://dev.venthoodpro.com/catalogsearch/result/?q=36+inch+range+hood|
 But is actually returning:|http://dev.venthoodpro.com/catalogsearch/result/?q=115.48|
-counter iteration:827
+counter iteration:826
            
 URL to redirect: http://dev.venthoodpro.com/index.php?main_page=advanced_search_result&search_in_description=1&keyword=116.30&x=0&y=0
 End URL should be:|http://dev.venthoodpro.com/catalogsearch/result/?q=36+inch+stove+hoods|
 But is actually returning:|http://dev.venthoodpro.com/catalogsearch/result/?q=116.30|
-counter iteration:828
+counter iteration:827
            
 URL to redirect: http://dev.venthoodpro.com/index.php?main_page=advanced_search_result&search_in_description=1&keyword=116.48&x=0&y=0
 End URL should be:|http://dev.venthoodpro.com/catalogsearch/result/?q=36wc|
 But is actually returning:|http://dev.venthoodpro.com/catalogsearch/result/?q=109.48|
-counter iteration:829
+counter iteration:828
            
 URL to redirect: http://dev.venthoodpro.com/index.php?main_page=advanced_search_result&search_in_description=1&keyword=120.&x=0&y=0
 End URL should be:|http://dev.venthoodpro.com/catalogsearch/result/?q=40|
 But is actually returning:|http://dev.venthoodpro.com/catalogsearch/result/?q=120|
-counter iteration:830
+counter iteration:829
            
 URL to redirect: http://dev.venthoodpro.com/index.php?main_page=advanced_search_result&search_in_description=1&keyword=120.36&x=0&y=0
 End URL should be:|http://dev.venthoodpro.com/catalogsearch/result/?q=42|
 But is actually returning:|http://dev.venthoodpro.com/catalogsearch/result/?q=120.36|
-counter iteration:831
+counter iteration:830
            
 URL to redirect: http://dev.venthoodpro.com/index.php?main_page=advanced_search_result&search_in_description=1&keyword=1200 cfm&inc_subcat=0&sort=20a&page=2
 End URL should be:|http://dev.venthoodpro.com/catalogsearch/result/?q=42+island+hoods|
 But is actually returning:|http://dev.venthoodpro.com/index.php?main_page=advanced_search_result&search_in_description=1&keyword=1200 cfm&inc_subcat=0&sort=20a&page=2|
-counter iteration:832
+counter iteration:831
            
 URL to redirect: http://dev.venthoodpro.com/index.php?main_page=advanced_search_result&search_in_description=1&keyword=121.30&x=0&y=0
 End URL should be:|http://dev.venthoodpro.com/catalogsearch/result/?q=42|
 But is actually returning:|http://dev.venthoodpro.com/catalogsearch/result/?q=121.30|
-counter iteration:833
+counter iteration:832
            
 URL to redirect: http://dev.venthoodpro.com/index.php?main_page=advanced_search_result&search_in_description=1&keyword=121&x=0&y=0
 End URL should be:|http://dev.venthoodpro.com/catalogsearch/result/?q=48+inch|
 But is actually returning:|http://dev.venthoodpro.com/catalogsearch/result/?q=121|
-counter iteration:834
+counter iteration:833
            
 URL to redirect: http://dev.venthoodpro.com/index.php?main_page=advanced_search_result&search_in_description=1&keyword=129.48&x=0&y=0
 End URL should be:|http://dev.venthoodpro.com/catalogsearch/result/?q=48+hood+wall|
 But is actually returning:|http://dev.venthoodpro.com/catalogsearch/result/?q=129.48|
-counter iteration:835
+counter iteration:834
            
 URL to redirect: http://dev.venthoodpro.com/index.php?main_page=advanced_search_result&search_in_description=1&keyword=129&x=39&y=10
 End URL should be:|http://dev.venthoodpro.com/catalogsearch/result/?q=48|
 But is actually returning:|http://dev.venthoodpro.com/catalogsearch/result/?q=129|
-counter iteration:836
+counter iteration:835
            
 URL to redirect: http://dev.venthoodpro.com/index.php?main_page=advanced_search_result&search_in_description=1&keyword=129j.36&x=0&y=0
 End URL should be:|http://dev.venthoodpro.com/catalogsearch/result/?q=48+in+range+hood|
 But is actually returning:|http://dev.venthoodpro.com/catalogsearch/result/?q=129j.36|
-counter iteration:837
+counter iteration:836
            
 URL to redirect: http://dev.venthoodpro.com/index.php?main_page=advanced_search_result&search_in_description=1&keyword=130.36&x=0&y=0
 End URL should be:|http://dev.venthoodpro.com/catalogsearch/result/?q=520.|
 But is actually returning:|http://dev.venthoodpro.com/catalogsearch/result/?q=130.36|
-counter iteration:838
+counter iteration:837
            
 URL to redirect: http://dev.venthoodpro.com/index.php?main_page=advanced_search_result&search_in_description=1&keyword=130.42&x=0&y=0
 End URL should be:|http://dev.venthoodpro.com/catalogsearch/result/?q=520.24|
 But is actually returning:|http://dev.venthoodpro.com/catalogsearch/result/?q=130.42|
-counter iteration:839
+counter iteration:838
            
 URL to redirect: http://dev.venthoodpro.com/index.php?main_page=advanced_search_result&search_in_description=1&keyword=180.30&x=37&y=8
 End URL should be:|http://dev.venthoodpro.com/catalogsearch/result/?q=520.3|
 But is actually returning:|http://dev.venthoodpro.com/catalogsearch/result/?q=180.30|
-counter iteration:840
+counter iteration:839
            
 URL to redirect: http://dev.venthoodpro.com/index.php?main_page=advanced_search_result&search_in_description=1&keyword=185.36 &x=0&y=0
 End URL should be:|http://dev.venthoodpro.com/catalogsearch/result/?q=520.48|
 But is actually returning:|http://dev.venthoodpro.com/index.php?main_page=advanced_search_result&search_in_description=1&keyword=185.36 &x=0&y=0|
-counter iteration:841
+counter iteration:840
            
 URL to redirect: http://dev.venthoodpro.com/index.php?main_page=advanced_search_result&search_in_description=1&keyword=185&x=0&y=0
 End URL should be:|http://dev.venthoodpro.com/catalogsearch/result/?q=520|
 But is actually returning:|http://dev.venthoodpro.com/catalogsearch/result/?q=185|
-counter iteration:842
+counter iteration:841
            
 URL to redirect: http://dev.venthoodpro.com/index.php?main_page=advanced_search_result&search_in_description=1&keyword=28+3/4+&x=34&y=15
 End URL should be:|http://dev.venthoodpro.com/catalogsearch/result/?q=54|
 But is actually returning:|http://dev.venthoodpro.com/index.php?main_page=advanced_search_result&search_in_description=1&keyword=28+3/4+&x=34&y=15|
-counter iteration:843
+counter iteration:842
            
 URL to redirect: http://dev.venthoodpro.com/index.php?main_page=advanced_search_result&search_in_description=1&keyword=28+inch&x=0&y=0
 End URL should be:|http://dev.venthoodpro.com/catalogsearch/result/?q=54|
 But is actually returning:|http://dev.venthoodpro.com/index.php?main_page=advanced_search_result&search_in_description=1&keyword=28+inch&x=0&y=0|
-counter iteration:844
+counter iteration:843
            
 URL to redirect: http://dev.venthoodpro.com/index.php?main_page=advanced_search_result&search_in_description=1&keyword=30  under cabinet hood&inc_subcat=0&sort=20a&page=1
 End URL should be:|http://dev.venthoodpro.com/catalogsearch/result/?q=58+inc+hood|
 But is actually returning:|http://dev.venthoodpro.com/index.php?main_page=advanced_search_result&search_in_description=1&keyword=30  under cabinet hood&inc_subcat=0&sort=20a&page=1|
-counter iteration:845
+counter iteration:844
            
 URL to redirect: http://dev.venthoodpro.com/index.php?main_page=advanced_search_result&search_in_description=1&keyword=30 inch deep hood&inc_subcat=0&sort=20a&page=1
 End URL should be:|http://dev.venthoodpro.com/catalogsearch/result/?q=581.30|
 But is actually returning:|http://dev.venthoodpro.com/index.php?main_page=advanced_search_result&search_in_description=1&keyword=30 inch deep hood&inc_subcat=0&sort=20a&page=1|
-counter iteration:846
+counter iteration:845
            
 URL to redirect: http://dev.venthoodpro.com/index.php?main_page=advanced_search_result&search_in_description=1&keyword=30 range hood&inc_subcat=0&sort=20a&page=2
 End URL should be:|http://dev.venthoodpro.com/catalogsearch/result/?q=581.36|
 But is actually returning:|http://dev.venthoodpro.com/index.php?main_page=advanced_search_result&search_in_description=1&keyword=30 range hood&inc_subcat=0&sort=20a&page=2|
-counter iteration:847
+counter iteration:846
            
 URL to redirect: http://dev.venthoodpro.com/index.php?main_page=advanced_search_result&search_in_description=1&keyword=30 stainless steel&inc_subcat=0&sort=20a&page=3
 End URL should be:|http://dev.venthoodpro.com/catalogsearch/result/?q=582|
 But is actually returning:|http://dev.venthoodpro.com/index.php?main_page=advanced_search_result&search_in_description=1&keyword=30 stainless steel&inc_subcat=0&sort=20a&page=3|
-counter iteration:848
+counter iteration:847
            
 URL to redirect: http://dev.venthoodpro.com/index.php?main_page=advanced_search_result&search_in_description=1&keyword=30 wall mount&inc_subcat=0&sort=20a&page=3
 End URL should be:|http://dev.venthoodpro.com/catalogsearch/result/?q=60|
 But is actually returning:|http://dev.venthoodpro.com/index.php?main_page=advanced_search_result&search_in_description=1&keyword=30 wall mount&inc_subcat=0&sort=20a&page=3|
-counter iteration:849
+counter iteration:848
            
 URL to redirect: http://dev.venthoodpro.com/index.php?main_page=advanced_search_result&search_in_description=1&keyword=30+island&x=0&y=0
 End URL should be:|http://dev.venthoodpro.com/catalogsearch/result/?q=60|
 But is actually returning:|http://dev.venthoodpro.com/index.php?main_page=advanced_search_result&search_in_description=1&keyword=30+island&x=0&y=0|
-counter iteration:850
+counter iteration:849
            
 URL to redirect: http://dev.venthoodpro.com/index.php?main_page=advanced_search_result&search_in_description=1&keyword=30+Professional+Under+Cabinet+Hood&x=21&y=11
 End URL should be:|http://dev.venthoodpro.com/catalogsearch/result/?q=60w.430|
 But is actually returning:|http://dev.venthoodpro.com/index.php?main_page=advanced_search_result&search_in_description=1&keyword=30+Professional+Under+Cabinet+Hood&x=21&y=11|
-counter iteration:851
+counter iteration:850
            
 URL to redirect: http://dev.venthoodpro.com/index.php?main_page=advanced_search_result&search_in_description=1&keyword=30+in+glass+and+stainless+wall+hood&x=23&y=3
 End URL should be:|http://dev.venthoodpro.com/catalogsearch/result/?q=697.42|
 But is actually returning:|http://dev.venthoodpro.com/index.php?main_page=advanced_search_result&search_in_description=1&keyword=30+in+glass+and+stainless+wall+hood&x=23&y=3|
-counter iteration:852
+counter iteration:851
            
 URL to redirect: http://dev.venthoodpro.com/index.php?main_page=advanced_search_result&search_in_description=1&keyword=30+inch+island+range+hoods&x=0&y=0
 End URL should be:|http://dev.venthoodpro.com/catalogsearch/result/?q=750.42|
 But is actually returning:|http://dev.venthoodpro.com/index.php?main_page=advanced_search_result&search_in_description=1&keyword=30+inch+island+range+hoods&x=0&y=0|
-counter iteration:853
+counter iteration:852
            
 URL to redirect: http://dev.venthoodpro.com/index.php?main_page=advanced_search_result&search_in_description=1&keyword=304+spec&x=0&y=0
 End URL should be:|http://dev.venthoodpro.com/catalogsearch/result/?q=750.48|
 But is actually returning:|http://dev.venthoodpro.com/index.php?main_page=advanced_search_result&search_in_description=1&keyword=304+spec&x=0&y=0|
-counter iteration:854
+counter iteration:853
            
 URL to redirect: http://dev.venthoodpro.com/index.php?main_page=advanced_search_result&search_in_description=1&keyword=34.15&x=0&y=0
 End URL should be:|http://dev.venthoodpro.com/catalogsearch/result/?q=755.60|
 But is actually returning:|http://dev.venthoodpro.com/catalogsearch/result/?q=34.15|
-counter iteration:855
+counter iteration:854
            
 URL to redirect: http://dev.venthoodpro.com/index.php?main_page=advanced_search_result&search_in_description=1&keyword=34.18&x=0&y=0
 End URL should be:|http://dev.venthoodpro.com/catalogsearch/result/?q=760+cfm|
 But is actually returning:|http://dev.venthoodpro.com/catalogsearch/result/?q=34.18|
-counter iteration:856
+counter iteration:855
            
 URL to redirect: http://dev.venthoodpro.com/index.php?main_page=advanced_search_result&search_in_description=1&keyword=3415&x=54&y=13
 End URL should be:|http://dev.venthoodpro.com/catalogsearch/result/?q=812.30|
 But is actually returning:|http://dev.venthoodpro.com/catalogsearch/result/?q=3415|
-counter iteration:857
+counter iteration:856
            
 URL to redirect: http://dev.venthoodpro.com/index.php?main_page=advanced_search_result&search_in_description=1&keyword=3418&x=0&y=0
 End URL should be:|http://dev.venthoodpro.com/catalogsearch/result/?q=812.36|
 But is actually returning:|http://dev.venthoodpro.com/catalogsearch/result/?q=3418|
-counter iteration:858
+counter iteration:857
            
 URL to redirect: http://dev.venthoodpro.com/index.php?main_page=advanced_search_result&search_in_description=1&keyword=36&crtag=g1&inc_subcat=0&sort=20a&page=10
 End URL should be:|http://dev.venthoodpro.com/catalogsearch/result/?q=812.48|
 But is actually returning:|http://dev.venthoodpro.com/catalogsearch/result/?q=36|
-counter iteration:859
+counter iteration:858
            
 URL to redirect: http://dev.venthoodpro.com/index.php?main_page=advanced_search_result&search_in_description=1&keyword=36&inc_subcat=0&sort=20a&page=5
 End URL should be:|http://dev.venthoodpro.com/catalogsearch/result/?q=832.28|
 But is actually returning:|http://dev.venthoodpro.com/catalogsearch/result/?q=36|
-counter iteration:860
+counter iteration:859
            
 URL to redirect: http://dev.venthoodpro.com/index.php?main_page=advanced_search_result&search_in_description=1&keyword=36+heat+lamp&x=0&y=0
 End URL should be:|http://dev.venthoodpro.com/catalogsearch/result/?q=832.34|
 But is actually returning:|http://dev.venthoodpro.com/index.php?main_page=advanced_search_result&search_in_description=1&keyword=36+heat+lamp&x=0&y=0|
-counter iteration:861
+counter iteration:860
            
 URL to redirect: http://dev.venthoodpro.com/index.php?main_page=advanced_search_result&search_in_description=1&keyword=36+Professional+Range+Hood+Model+PLFW812.36&x=47&y=11
 End URL should be:|http://dev.venthoodpro.com/catalogsearch/result/?q=832.40|
 But is actually returning:|http://dev.venthoodpro.com/index.php?main_page=advanced_search_result&search_in_description=1&keyword=36+Professional+Range+Hood+Model+PLFW812.36&x=47&y=11|
-counter iteration:862
+counter iteration:861
            
 URL to redirect: http://dev.venthoodpro.com/index.php?main_page=advanced_search_result&search_in_description=1&keyword=36+range+hood&x=0&y=0
 End URL should be:|http://dev.venthoodpro.com/catalogsearch/result/?q=832|
 But is actually returning:|http://dev.venthoodpro.com/index.php?main_page=advanced_search_result&search_in_description=1&keyword=36+range+hood&x=0&y=0|
-counter iteration:863
+counter iteration:862
            
 URL to redirect: http://dev.venthoodpro.com/index.php?main_page=advanced_search_result&search_in_description=1&keyword=36+inch&x=0&y=0
 End URL should be:|http://dev.venthoodpro.com/catalogsearch/result/?q=charcoal+filter|
 But is actually returning:|http://dev.venthoodpro.com/index.php?main_page=advanced_search_result&search_in_description=1&keyword=36+inch&x=0&y=0|
-counter iteration:864
+counter iteration:863
            
 URL to redirect: http://dev.venthoodpro.com/index.php?main_page=advanced_search_result&search_in_description=1&keyword=36+inch&x=34&y=15
 End URL should be:|http://dev.venthoodpro.com/catalogsearch/result/?q=chimney+vents|
 But is actually returning:|http://dev.venthoodpro.com/index.php?main_page=advanced_search_result&search_in_description=1&keyword=36+inch&x=34&y=15|
-counter iteration:865
+counter iteration:864
            
 URL to redirect: http://dev.venthoodpro.com/index.php?main_page=advanced_search_result&search_in_description=1&keyword=36+inch+range+hood&inc_subcat=0&sort=20a&alpha_filter_id=51
 End URL should be:|http://dev.venthoodpro.com/catalogsearch/result/?q=commerical+venting+hood|
 But is actually returning:|http://dev.venthoodpro.com/index.php?main_page=advanced_search_result&search_in_description=1&keyword=36+inch+range+hood&inc_subcat=0&sort=20a&alpha_filter_id=51|
-counter iteration:866
+counter iteration:865
            
 URL to redirect: http://dev.venthoodpro.com/index.php?main_page=advanced_search_result&search_in_description=1&keyword=36+inch+stove+hoods&x=0&y=0
 End URL should be:|http://dev.venthoodpro.com/catalogsearch/result/?q=ductless+vent|
 But is actually returning:|http://dev.venthoodpro.com/index.php?main_page=advanced_search_result&search_in_description=1&keyword=36+inch+stove+hoods&x=0&y=0|
-counter iteration:867
+counter iteration:866
            
 URL to redirect: http://dev.venthoodpro.com/index.php?main_page=advanced_search_result&search_in_description=1&keyword=36wc&x=0&y=0
 End URL should be:|http://dev.venthoodpro.com/catalogsearch/result/?q=Euro|
 But is actually returning:|http://dev.venthoodpro.com/catalogsearch/result/?q=36wc|
-counter iteration:868
+counter iteration:867
            
 URL to redirect: http://dev.venthoodpro.com/index.php?main_page=advanced_search_result&search_in_description=1&keyword=40&inc_subcat=0&sort=20a&alpha_filter_id=52&page=2
 End URL should be:|http://dev.venthoodpro.com/catalogsearch/result/?q=fan|
 But is actually returning:|http://dev.venthoodpro.com/catalogsearch/result/?q=40|
-counter iteration:869
+counter iteration:868
            
 URL to redirect: http://dev.venthoodpro.com/index.php?main_page=advanced_search_result&search_in_description=1&keyword=42&inc_subcat=0&sort=20a&page=3
 End URL should be:|http://dev.venthoodpro.com/catalogsearch/result/?q=fans|
 But is actually returning:|http://dev.venthoodpro.com/catalogsearch/result/?q=42|
-counter iteration:870
+counter iteration:869
            
 URL to redirect: http://dev.venthoodpro.com/index.php?main_page=advanced_search_result&search_in_description=1&keyword=42+island+hoods&x=28&y=8
 End URL should be:|http://dev.venthoodpro.com/catalogsearch/result/?q=filters|
 But is actually returning:|http://dev.venthoodpro.com/index.php?main_page=advanced_search_result&search_in_description=1&keyword=42+island+hoods&x=28&y=8|
-counter iteration:871
+counter iteration:870
            
 URL to redirect: http://dev.venthoodpro.com/index.php?main_page=advanced_search_result&search_in_description=1&keyword=42&x=0&y=0
 End URL should be:|http://dev.venthoodpro.com/catalogsearch/result/?q=filters|
 But is actually returning:|http://dev.venthoodpro.com/catalogsearch/result/?q=42|
-counter iteration:872
+counter iteration:871
            
 URL to redirect: http://dev.venthoodpro.com/index.php?main_page=advanced_search_result&search_in_description=1&keyword=48 inch&inc_subcat=0&sort=20a&page=3
 End URL should be:|http://dev.venthoodpro.com/catalogsearch/result/?q=heat+lamp|
 But is actually returning:|http://dev.venthoodpro.com/index.php?main_page=advanced_search_result&search_in_description=1&keyword=48 inch&inc_subcat=0&sort=20a&page=3|
-counter iteration:873
+counter iteration:872
            
 URL to redirect: http://dev.venthoodpro.com/index.php?main_page=advanced_search_result&search_in_description=1&keyword=48 hood wall&inc_subcat=0&sort=20a&page=4
 End URL should be:|http://dev.venthoodpro.com/catalogsearch/result/?q=insert+40|
 But is actually returning:|http://dev.venthoodpro.com/index.php?main_page=advanced_search_result&search_in_description=1&keyword=48 hood wall&inc_subcat=0&sort=20a&page=4|
-counter iteration:874
+counter iteration:873
            
 URL to redirect: http://dev.venthoodpro.com/index.php?main_page=advanced_search_result&search_in_description=1&keyword=48&x=38&y=5
 End URL should be:|http://dev.venthoodpro.com/catalogsearch/result/?q=insert|
 But is actually returning:|http://dev.venthoodpro.com/catalogsearch/result/?q=48|
-counter iteration:875
+counter iteration:874
            
 URL to redirect: http://dev.venthoodpro.com/index.php?main_page=advanced_search_result&search_in_description=1&keyword=48+in+range+hood+&x=0&y=0
 End URL should be:|http://dev.venthoodpro.com/catalogsearch/result/?q=insert|
 But is actually returning:|http://dev.venthoodpro.com/index.php?main_page=advanced_search_result&search_in_description=1&keyword=48+in+range+hood+&x=0&y=0|
-counter iteration:876
+counter iteration:875
            
 URL to redirect: http://dev.venthoodpro.com/index.php?main_page=advanced_search_result&search_in_description=1&keyword=520.&x=0&y=0
 End URL should be:|http://dev.venthoodpro.com/catalogsearch/result/?q=inserts|
 But is actually returning:|http://dev.venthoodpro.com/catalogsearch/result/?q=520|
-counter iteration:877
+counter iteration:876
            
 URL to redirect: http://dev.venthoodpro.com/index.php?main_page=advanced_search_result&search_in_description=1&keyword=520.24&x=0&y=0
 End URL should be:|http://dev.venthoodpro.com/catalogsearch/result/?q=install+instructions|
 But is actually returning:|http://dev.venthoodpro.com/catalogsearch/result/?q=520.24|
-counter iteration:878
+counter iteration:877
            
 URL to redirect: http://dev.venthoodpro.com/index.php?main_page=advanced_search_result&search_in_description=1&keyword=520.3&x=0&y=0
 End URL should be:|http://dev.venthoodpro.com/catalogsearch/result/?q=installation+manual|
 But is actually returning:|http://dev.venthoodpro.com/catalogsearch/result/?q=520.3|
-counter iteration:879
+counter iteration:878
            
 URL to redirect: http://dev.venthoodpro.com/index.php?main_page=advanced_search_result&search_in_description=1&keyword=520.48&x=0&y=0
 End URL should be:|http://dev.venthoodpro.com/catalogsearch/result/?q=island+hood|
 But is actually returning:|http://dev.venthoodpro.com/catalogsearch/result/?q=520.48|
-counter iteration:880
+counter iteration:879
            
 URL to redirect: http://dev.venthoodpro.com/index.php?main_page=advanced_search_result&search_in_description=1&keyword=520&x=0&y=0
 End URL should be:|http://dev.venthoodpro.com/catalogsearch/result/?q=island|
 But is actually returning:|http://dev.venthoodpro.com/catalogsearch/result/?q=520|
-counter iteration:881
+counter iteration:880
            
 URL to redirect: http://dev.venthoodpro.com/index.php?main_page=advanced_search_result&search_in_description=1&keyword=54&inc_subcat=0&sort=20a&page=3
 End URL should be:|http://dev.venthoodpro.com/catalogsearch/result/?q=island|
 But is actually returning:|http://dev.venthoodpro.com/catalogsearch/result/?q=54|
-counter iteration:882
+counter iteration:881
            
 URL to redirect: http://dev.venthoodpro.com/index.php?main_page=advanced_search_result&search_in_description=1&keyword=54&inc_subcat=0&sort=20a&page=6
 End URL should be:|http://dev.venthoodpro.com/catalogsearch/result/?q=island+hood|
 But is actually returning:|http://dev.venthoodpro.com/catalogsearch/result/?q=54|
-counter iteration:883
+counter iteration:882
            
 URL to redirect: http://dev.venthoodpro.com/index.php?main_page=advanced_search_result&search_in_description=1&keyword=58+inc+hood&x=29&y=1
 End URL should be:|http://dev.venthoodpro.com/catalogsearch/result/?q=island+range+hood|
 But is actually returning:|http://dev.venthoodpro.com/index.php?main_page=advanced_search_result&search_in_description=1&keyword=58+inc+hood&x=29&y=1|
-counter iteration:884
+counter iteration:883
            
 URL to redirect: http://dev.venthoodpro.com/index.php?main_page=advanced_search_result&search_in_description=1&keyword=581.30&x=0&y=0
 End URL should be:|http://dev.venthoodpro.com/catalogsearch/result/?q=kecom|
 But is actually returning:|http://dev.venthoodpro.com/catalogsearch/result/?q=581.30|
-counter iteration:885
+counter iteration:884
            
 URL to redirect: http://dev.venthoodpro.com/index.php?main_page=advanced_search_result&search_in_description=1&keyword=581.36&x=0&y=0
 End URL should be:|http://dev.venthoodpro.com/catalogsearch/result/?q=kecom+36|
 But is actually returning:|http://dev.venthoodpro.com/catalogsearch/result/?q=581.36|
-counter iteration:886
+counter iteration:885
            
 URL to redirect: http://dev.venthoodpro.com/index.php?main_page=advanced_search_result&search_in_description=1&keyword=582&x=40&y=2
 End URL should be:|http://dev.venthoodpro.com/catalogsearch/result/?q=kitchen+vent+hoods+30|
 But is actually returning:|http://dev.venthoodpro.com/catalogsearch/result/?q=582|
-counter iteration:887
+counter iteration:886
            
 URL to redirect: http://dev.venthoodpro.com/index.php?main_page=advanced_search_result&search_in_description=1&keyword=60&inc_subcat=0&sort=20a&page=4
 End URL should be:|http://dev.venthoodpro.com/catalogsearch/result/?q=liner|
 But is actually returning:|http://dev.venthoodpro.com/catalogsearch/result/?q=60|
-counter iteration:888
+counter iteration:887
            
 URL to redirect: http://dev.venthoodpro.com/index.php?main_page=advanced_search_result&search_in_description=1&keyword=60&x=0&y=0
 End URL should be:|http://dev.venthoodpro.com/catalogsearch/result/?q=liner|
 But is actually returning:|http://dev.venthoodpro.com/catalogsearch/result/?q=60|
-counter iteration:889
+counter iteration:888
            
 URL to redirect: http://dev.venthoodpro.com/index.php?main_page=advanced_search_result&search_in_description=1&keyword=60w.430&x=0&y=0
 End URL should be:|http://dev.venthoodpro.com/catalogsearch/result/?q=outdoor+hood|
 But is actually returning:|http://dev.venthoodpro.com/catalogsearch/result/?q=60w.430|
-counter iteration:890
+counter iteration:889
            
 URL to redirect: http://dev.venthoodpro.com/index.php?main_page=advanced_search_result&search_in_description=1&keyword=697.42&x=0&y=0
 End URL should be:|http://dev.venthoodpro.com/catalogsearch/result/?q=plfi|
 But is actually returning:|http://dev.venthoodpro.com/catalogsearch/result/?q=697.42|
-counter iteration:891
+counter iteration:890
            
 URL to redirect: http://dev.venthoodpro.com/index.php?main_page=advanced_search_result&search_in_description=1&keyword=750.42&x=0&y=0
 End URL should be:|http://dev.venthoodpro.com/catalogsearch/result/?q=plfi+520|
 But is actually returning:|http://dev.venthoodpro.com/catalogsearch/result/?q=750.42|
-counter iteration:892
+counter iteration:891
            
 URL to redirect: http://dev.venthoodpro.com/index.php?main_page=advanced_search_result&search_in_description=1&keyword=750.48&x=0&y=0
 End URL should be:|http://dev.venthoodpro.com/catalogsearch/result/?q=plfi+750|
 But is actually returning:|http://dev.venthoodpro.com/catalogsearch/result/?q=750.48|
-counter iteration:893
+counter iteration:892
            
 URL to redirect: http://dev.venthoodpro.com/index.php?main_page=advanced_search_result&search_in_description=1&keyword=755.60&x=0&y=0
 End URL should be:|http://dev.venthoodpro.com/catalogsearch/result/?q=plfi+755.48|
 But is actually returning:|http://dev.venthoodpro.com/catalogsearch/result/?q=755.60|
-counter iteration:894
+counter iteration:893
            
 URL to redirect: http://dev.venthoodpro.com/index.php?main_page=advanced_search_result&search_in_description=1&keyword=760 cfm&inc_subcat=0&sort=20a&page=2
 End URL should be:|http://dev.venthoodpro.com/catalogsearch/result/?q=plfi+755.48|
 But is actually returning:|http://dev.venthoodpro.com/index.php?main_page=advanced_search_result&search_in_description=1&keyword=760 cfm&inc_subcat=0&sort=20a&page=2|
-counter iteration:895
+counter iteration:894
            
 URL to redirect: http://dev.venthoodpro.com/index.php?main_page=advanced_search_result&search_in_description=1&keyword=812.30&x=0&y=0
 End URL should be:|http://dev.venthoodpro.com/catalogsearch/result/?q=plfl+832|
 But is actually returning:|http://dev.venthoodpro.com/catalogsearch/result/?q=812.30|
-counter iteration:896
+counter iteration:895
            
 URL to redirect: http://dev.venthoodpro.com/index.php?main_page=advanced_search_result&search_in_description=1&keyword=812.36&x=0&y=0
 End URL should be:|http://dev.venthoodpro.com/catalogsearch/result/?q=plfw+115.30|
 But is actually returning:|http://dev.venthoodpro.com/catalogsearch/result/?q=812.36|
-counter iteration:897
+counter iteration:896
            
 URL to redirect: http://dev.venthoodpro.com/index.php?main_page=advanced_search_result&search_in_description=1&keyword=812.48&x=0&y=0
 End URL should be:|http://dev.venthoodpro.com/catalogsearch/result/?q=plfw+129j.36|
 But is actually returning:|http://dev.venthoodpro.com/catalogsearch/result/?q=812.48|
-counter iteration:898
+counter iteration:897
            
 URL to redirect: http://dev.venthoodpro.com/index.php?main_page=advanced_search_result&search_in_description=1&keyword=832.28&x=0&y=0
 End URL should be:|http://dev.venthoodpro.com/catalogsearch/result/?q=plfw+544.30|
 But is actually returning:|http://dev.venthoodpro.com/catalogsearch/result/?q=832.28|
-counter iteration:899
+counter iteration:898
            
 URL to redirect: http://dev.venthoodpro.com/index.php?main_page=advanced_search_result&search_in_description=1&keyword=832.34&x=0&y=0
 End URL should be:|http://dev.venthoodpro.com/catalogsearch/result/?q=plfw+544|
 But is actually returning:|http://dev.venthoodpro.com/catalogsearch/result/?q=832.34|
-counter iteration:900
+counter iteration:899
            
 URL to redirect: http://dev.venthoodpro.com/index.php?main_page=advanced_search_result&search_in_description=1&keyword=832.40&x=0&y=0
 End URL should be:|http://dev.venthoodpro.com/catalogsearch/result/?q=plfw+832.36|
 But is actually returning:|http://dev.venthoodpro.com/catalogsearch/result/?q=832.40|
-counter iteration:901
+counter iteration:900
            
 URL to redirect: http://dev.venthoodpro.com/index.php?main_page=advanced_search_result&search_in_description=1&keyword=832&x=0&y=0
 End URL should be:|http://dev.venthoodpro.com/catalogsearch/result/?q=plfw+832.42|
 But is actually returning:|http://dev.venthoodpro.com/catalogsearch/result/?q=832|
-counter iteration:902
+counter iteration:901
            
 URL to redirect: http://dev.venthoodpro.com/index.php?main_page=advanced_search_result&search_in_description=1&keyword=Charcoal filter&inc_subcat=0&sort=20a&page=3
 End URL should be:|http://dev.venthoodpro.com/catalogsearch/result/?q=plfw+832.48|
 But is actually returning:|http://dev.venthoodpro.com/index.php?main_page=advanced_search_result&search_in_description=1&keyword=Charcoal filter&inc_subcat=0&sort=20a&page=3|
-counter iteration:903
+counter iteration:902
            
 URL to redirect: http://dev.venthoodpro.com/index.php?main_page=advanced_search_result&search_in_description=1&keyword=chimney+vents&x=23&y=8
 End URL should be:|http://dev.venthoodpro.com/catalogsearch/result/?q=plfw+pros.30|
 But is actually returning:|http://dev.venthoodpro.com/index.php?main_page=advanced_search_result&search_in_description=1&keyword=chimney+vents&x=23&y=8|
-counter iteration:904
+counter iteration:903
            
 URL to redirect: http://dev.venthoodpro.com/index.php?main_page=advanced_search_result&search_in_description=1&keyword=Commercial+venting+hood&x=39&y=16
 End URL should be:|http://dev.venthoodpro.com/catalogsearch/result/?q=pljw|
 But is actually returning:|http://dev.venthoodpro.com/index.php?main_page=advanced_search_result&search_in_description=1&keyword=Commercial+venting+hood&x=39&y=16|
-counter iteration:905
+counter iteration:904
            
 URL to redirect: http://dev.venthoodpro.com/index.php?main_page=advanced_search_result&search_in_description=1&keyword=ductless+vent&x=22&y=5
 End URL should be:|http://dev.venthoodpro.com/catalogsearch/result/?q=pljw+101.36|
 But is actually returning:|http://dev.venthoodpro.com/index.php?main_page=advanced_search_result&search_in_description=1&keyword=ductless+vent&x=22&y=5|
-counter iteration:906
+counter iteration:905
            
 URL to redirect: http://dev.venthoodpro.com/index.php?main_page=advanced_search_result&search_in_description=1&keyword=Euro&x=0&y=0
 End URL should be:|http://dev.venthoodpro.com/catalogsearch/result/?q=pljw+109.36|
 But is actually returning:|http://dev.venthoodpro.com/catalogsearch/result/?q=Euro|
-counter iteration:907
+counter iteration:906
            
 URL to redirect: http://dev.venthoodpro.com/index.php?main_page=advanced_search_result&search_in_description=1&keyword=fan&x=34&y=3
 End URL should be:|http://dev.venthoodpro.com/catalogsearch/result/?q=pljw+129.42|
 But is actually returning:|http://dev.venthoodpro.com/catalogsearch/result/?q=fan|
-counter iteration:908
+counter iteration:907
            
 URL to redirect: http://dev.venthoodpro.com/index.php?main_page=advanced_search_result&search_in_description=1&keyword=fans&x=28&y=17
 End URL should be:|http://dev.venthoodpro.com/catalogsearch/result/?q=pljw+133.30|
 But is actually returning:|http://dev.venthoodpro.com/catalogsearch/result/?q=fans|
-counter iteration:909
+counter iteration:908
            
 URL to redirect: http://dev.venthoodpro.com/index.php?main_page=advanced_search_result&search_in_description=1&keyword=Filters&inc_subcat=0&alpha_filter_id=0&sort=2d&page=1
 End URL should be:|http://dev.venthoodpro.com/catalogsearch/result/?q=pljw109|
 But is actually returning:|http://dev.venthoodpro.com/catalogsearch/result/?q=filters|
-counter iteration:910
+counter iteration:909
            
 URL to redirect: http://dev.venthoodpro.com/index.php?main_page=advanced_search_result&search_in_description=1&keyword=Filters&inc_subcat=0&sort=2d&alpha_filter_id=52&page=6
 End URL should be:|http://dev.venthoodpro.com/catalogsearch/result/?q=plsi+440|
 But is actually returning:|http://dev.venthoodpro.com/catalogsearch/result/?q=filters|
-counter iteration:911
+counter iteration:910
            
 URL to redirect: http://dev.venthoodpro.com/index.php?main_page=advanced_search_result&search_in_description=1&keyword=heat lamp&inc_subcat=0&sort=20a&page=2
 End URL should be:|http://dev.venthoodpro.com/catalogsearch/result/?q=Plus|
 But is actually returning:|http://dev.venthoodpro.com/index.php?main_page=advanced_search_result&search_in_description=1&keyword=heat lamp&inc_subcat=0&sort=20a&page=2|
-counter iteration:912
+counter iteration:911
            
 URL to redirect: http://dev.venthoodpro.com/index.php?main_page=advanced_search_result&search_in_description=1&keyword=Insert 40&inc_subcat=0&sort=20a&page=2
 End URL should be:|http://dev.venthoodpro.com/catalogsearch/result/?q=plzw|
 But is actually returning:|http://dev.venthoodpro.com/index.php?main_page=advanced_search_result&search_in_description=1&keyword=Insert 40&inc_subcat=0&sort=20a&page=2|
-counter iteration:913
+counter iteration:912
            
 URL to redirect: http://dev.venthoodpro.com/index.php?main_page=advanced_search_result&search_in_description=1&keyword=Insert&inc_subcat=0&sort=20a&page=4
 End URL should be:|http://dev.venthoodpro.com/catalogsearch/result/?q=pro+z|
 But is actually returning:|http://dev.venthoodpro.com/catalogsearch/result/?q=insert|
-counter iteration:914
+counter iteration:913
            
 URL to redirect: http://dev.venthoodpro.com/index.php?main_page=advanced_search_result&search_in_description=1&keyword=insert&x=0&y=0
 End URL should be:|http://dev.venthoodpro.com/catalogsearch/result/?q=proline+range+hood|
 But is actually returning:|http://dev.venthoodpro.com/catalogsearch/result/?q=insert|
-counter iteration:915
+counter iteration:914
            
 URL to redirect: http://dev.venthoodpro.com/index.php?main_page=advanced_search_result&search_in_description=1&keyword=Inserts&inc_subcat=0&sort=20a&page=2
 End URL should be:|http://dev.venthoodpro.com/catalogsearch/result/?q=pros.30|
 But is actually returning:|http://dev.venthoodpro.com/catalogsearch/result/?q=inserts|
-counter iteration:916
+counter iteration:915
            
 URL to redirect: http://dev.venthoodpro.com/index.php?main_page=advanced_search_result&search_in_description=1&keyword=Install+instructions+&x=0&y=0
 End URL should be:|http://dev.venthoodpro.com/catalogsearch/result/?q=pros.36|
 But is actually returning:|http://dev.venthoodpro.com/index.php?main_page=advanced_search_result&search_in_description=1&keyword=Install+instructions+&x=0&y=0|
-counter iteration:917
+counter iteration:916
            
 URL to redirect: http://dev.venthoodpro.com/index.php?main_page=advanced_search_result&search_in_description=1&keyword=installation+manual&x=35&y=7
 End URL should be:|http://dev.venthoodpro.com/catalogsearch/result/?q=pros.42|
 But is actually returning:|http://dev.venthoodpro.com/index.php?main_page=advanced_search_result&search_in_description=1&keyword=installation+manual&x=35&y=7|
-counter iteration:918
+counter iteration:917
            
 URL to redirect: http://dev.venthoodpro.com/index.php?main_page=advanced_search_result&search_in_description=1&keyword=Island hood&inc_subcat=0&sort=20a&page=3
 End URL should be:|http://dev.venthoodpro.com/catalogsearch/result/?q=prosi30|
 But is actually returning:|http://dev.venthoodpro.com/index.php?main_page=advanced_search_result&search_in_description=1&keyword=Island hood&inc_subcat=0&sort=20a&page=3|
-counter iteration:919
+counter iteration:918
            
 URL to redirect: http://dev.venthoodpro.com/index.php?main_page=advanced_search_result&search_in_description=1&keyword=island&x=14&y=9
 End URL should be:|http://dev.venthoodpro.com/catalogsearch/result/?q=prosi42|
 But is actually returning:|http://dev.venthoodpro.com/catalogsearch/result/?q=island|
-counter iteration:920
+counter iteration:919
            
 URL to redirect: http://dev.venthoodpro.com/index.php?main_page=advanced_search_result&search_in_description=1&keyword=Island&x=43&y=19
 End URL should be:|http://dev.venthoodpro.com/catalogsearch/result/?q=prosi48|
 But is actually returning:|http://dev.venthoodpro.com/catalogsearch/result/?q=island|
-counter iteration:921
+counter iteration:920
            
 URL to redirect: http://dev.venthoodpro.com/index.php?main_page=advanced_search_result&search_in_description=1&keyword=Island+hood&x=41&y=3
 End URL should be:|http://dev.venthoodpro.com/catalogsearch/result/?q=prosw+48|
 But is actually returning:|http://dev.venthoodpro.com/index.php?main_page=advanced_search_result&search_in_description=1&keyword=Island+hood&x=41&y=3|
-counter iteration:922
+counter iteration:921
            
 URL to redirect: http://dev.venthoodpro.com/index.php?main_page=advanced_search_result&search_in_description=1&keyword=Island+range+hood&x=23&y=11
 End URL should be:|http://dev.venthoodpro.com/catalogsearch/result/?q=prosw+60|
 But is actually returning:|http://dev.venthoodpro.com/index.php?main_page=advanced_search_result&search_in_description=1&keyword=Island+range+hood&x=23&y=11|
-counter iteration:923
+counter iteration:922
            
 URL to redirect: http://dev.venthoodpro.com/index.php?main_page=advanced_search_result&search_in_description=1&keyword=Kecom&x=0&y=0
 End URL should be:|http://dev.venthoodpro.com/catalogsearch/result/?q=prov+36|
 But is actually returning:|http://dev.venthoodpro.com/catalogsearch/result/?q=kecom|
-counter iteration:924
+counter iteration:923
            
 URL to redirect: http://dev.venthoodpro.com/index.php?main_page=advanced_search_result&search_in_description=1&keyword=kecom+36&x=0&y=0
 End URL should be:|http://dev.venthoodpro.com/catalogsearch/result/?q=prov+60w|
 But is actually returning:|http://dev.venthoodpro.com/index.php?main_page=advanced_search_result&search_in_description=1&keyword=kecom+36&x=0&y=0|
-counter iteration:925
+counter iteration:924
            
 URL to redirect: http://dev.venthoodpro.com/index.php?main_page=advanced_search_result&search_in_description=1&keyword=Kitchen vent hoods 30&inc_subcat=0&sort=20a&page=2
 End URL should be:|http://dev.venthoodpro.com/catalogsearch/result/?q=prov+60wc|
 But is actually returning:|http://dev.venthoodpro.com/index.php?main_page=advanced_search_result&search_in_description=1&keyword=Kitchen vent hoods 30&inc_subcat=0&sort=20a&page=2|
-counter iteration:926
+counter iteration:925
            
 URL to redirect: http://dev.venthoodpro.com/index.php?main_page=advanced_search_result&search_in_description=1&keyword=Liner&inc_subcat=0&sort=20a&page=3
 End URL should be:|http://dev.venthoodpro.com/catalogsearch/result/?q=range+hood+insert|
 But is actually returning:|http://dev.venthoodpro.com/catalogsearch/result/?q=liner|
-counter iteration:927
+counter iteration:926
            
 URL to redirect: http://dev.venthoodpro.com/index.php?main_page=advanced_search_result&search_in_description=1&keyword=Liner&x=48&y=15
 End URL should be:|http://dev.venthoodpro.com/catalogsearch/result/?q=range+hood|
 But is actually returning:|http://dev.venthoodpro.com/catalogsearch/result/?q=liner|
-counter iteration:928
+counter iteration:927
            
 URL to redirect: http://dev.venthoodpro.com/index.php?main_page=advanced_search_result&search_in_description=1&keyword=outdoor+hood&x=0&y=0
 End URL should be:|http://dev.venthoodpro.com/catalogsearch/result/?q=range+hood|
 But is actually returning:|http://dev.venthoodpro.com/index.php?main_page=advanced_search_result&search_in_description=1&keyword=outdoor+hood&x=0&y=0|
-counter iteration:929
+counter iteration:928
            
 URL to redirect: http://dev.venthoodpro.com/index.php?main_page=advanced_search_result&search_in_description=1&keyword=plfi&x=0&y=0
 End URL should be:|http://dev.venthoodpro.com/catalogsearch/result/?q=range+hood+30|
 But is actually returning:|http://dev.venthoodpro.com/catalogsearch/result/?q=plfi|
-counter iteration:930
+counter iteration:929
            
 URL to redirect: http://dev.venthoodpro.com/index.php?main_page=advanced_search_result&search_in_description=1&keyword=plfi+520&x=0&y=0
 End URL should be:|http://dev.venthoodpro.com/catalogsearch/result/?q=roof+cal|
 But is actually returning:|http://dev.venthoodpro.com/index.php?main_page=advanced_search_result&search_in_description=1&keyword=plfi+520&x=0&y=0|
-counter iteration:931
+counter iteration:930
            
 URL to redirect: http://dev.venthoodpro.com/index.php?main_page=advanced_search_result&search_in_description=1&keyword=plfi+750&x=10&y=7
 End URL should be:|http://dev.venthoodpro.com/catalogsearch/result/?q=roof+cap|
 But is actually returning:|http://dev.venthoodpro.com/index.php?main_page=advanced_search_result&search_in_description=1&keyword=plfi+750&x=10&y=7|
-counter iteration:932
+counter iteration:931
            
 URL to redirect: http://dev.venthoodpro.com/index.php?main_page=advanced_search_result&search_in_description=1&keyword=plfi+755.48&x=0&y=0
 End URL should be:|http://dev.venthoodpro.com/catalogsearch/result/?q=roof+vent|
 But is actually returning:|http://dev.venthoodpro.com/index.php?main_page=advanced_search_result&search_in_description=1&keyword=plfi+755.48&x=0&y=0|
-counter iteration:933
+counter iteration:932
            
 URL to redirect: http://dev.venthoodpro.com/index.php?main_page=advanced_search_result&search_in_description=1&keyword=plfi+755&x=19&y=8
 End URL should be:|http://dev.venthoodpro.com/catalogsearch/result/?q=roof+vent|
 But is actually returning:|http://dev.venthoodpro.com/index.php?main_page=advanced_search_result&search_in_description=1&keyword=plfi+755&x=19&y=8|
-counter iteration:934
+counter iteration:933
            
 URL to redirect: http://dev.venthoodpro.com/index.php?main_page=advanced_search_result&search_in_description=1&keyword=PLFL+832&x=0&y=0
 End URL should be:|http://dev.venthoodpro.com/catalogsearch/result/?q=stainless+steel+wall+hood+30|
 But is actually returning:|http://dev.venthoodpro.com/index.php?main_page=advanced_search_result&search_in_description=1&keyword=PLFL+832&x=0&y=0|
-counter iteration:935
+counter iteration:934
            
 URL to redirect: http://dev.venthoodpro.com/index.php?main_page=advanced_search_result&search_in_description=1&keyword=PLFW+115.30&x=18&y=10
 End URL should be:|http://dev.venthoodpro.com/catalogsearch/result/?q=under+cabinet+hood|
 But is actually returning:|http://dev.venthoodpro.com/index.php?main_page=advanced_search_result&search_in_description=1&keyword=PLFW+115.30&x=18&y=10|
-counter iteration:936
+counter iteration:935
            
 URL to redirect: http://dev.venthoodpro.com/index.php?main_page=advanced_search_result&search_in_description=1&keyword=PLFW+129J.36+&x=18&y=3
 End URL should be:|http://dev.venthoodpro.com/catalogsearch/result/?q=vector.30|
 But is actually returning:|http://dev.venthoodpro.com/index.php?main_page=advanced_search_result&search_in_description=1&keyword=PLFW+129J.36+&x=18&y=3|
-counter iteration:937
+counter iteration:936
            
 URL to redirect: http://dev.venthoodpro.com/index.php?main_page=advanced_search_result&search_in_description=1&keyword=PLFW+544.30&x=20&y=2
 End URL should be:|http://dev.venthoodpro.com/catalogsearch/result/?q=vector|
 But is actually returning:|http://dev.venthoodpro.com/index.php?main_page=advanced_search_result&search_in_description=1&keyword=PLFW+544.30&x=20&y=2|
-counter iteration:938
+counter iteration:937
            
 URL to redirect: http://dev.venthoodpro.com/index.php?main_page=advanced_search_result&search_in_description=1&keyword=PLFW+544&x=0&y=0
 End URL should be:|http://dev.venthoodpro.com/catalogsearch/result/?q=vector+36|
 But is actually returning:|http://dev.venthoodpro.com/index.php?main_page=advanced_search_result&search_in_description=1&keyword=PLFW+544&x=0&y=0|
-counter iteration:939
+counter iteration:938
            
 URL to redirect: http://dev.venthoodpro.com/index.php?main_page=advanced_search_result&search_in_description=1&keyword=Plfw+832.36&x=30&y=20
 End URL should be:|http://dev.venthoodpro.com/catalogsearch/result/?q=vector+36|
 But is actually returning:|http://dev.venthoodpro.com/index.php?main_page=advanced_search_result&search_in_description=1&keyword=Plfw+832.36&x=30&y=20|
-counter iteration:940
+counter iteration:939
            
 URL to redirect: http://dev.venthoodpro.com/index.php?main_page=advanced_search_result&search_in_description=1&keyword=PLFW+832.42&x=0&y=0
 End URL should be:|http://dev.venthoodpro.com/catalogsearch/result/?q=vector+wall+hood|
 But is actually returning:|http://dev.venthoodpro.com/index.php?main_page=advanced_search_result&search_in_description=1&keyword=PLFW+832.42&x=0&y=0|
-counter iteration:941
+counter iteration:940
            
 URL to redirect: http://dev.venthoodpro.com/index.php?main_page=advanced_search_result&search_in_description=1&keyword=PLFW+832.48&x=31&y=5
 End URL should be:|http://dev.venthoodpro.com/catalogsearch/result/?q=vent+hoods|
 But is actually returning:|http://dev.venthoodpro.com/index.php?main_page=advanced_search_result&search_in_description=1&keyword=PLFW+832.48&x=31&y=5|
-counter iteration:942
+counter iteration:941
            
 URL to redirect: http://dev.venthoodpro.com/index.php?main_page=advanced_search_result&search_in_description=1&keyword=PLFW+ProS.30 &x=0&y=0
 End URL should be:|http://dev.venthoodpro.com/catalogsearch/result/?q=viking+hoods|
 But is actually returning:|http://dev.venthoodpro.com/index.php?main_page=advanced_search_result&search_in_description=1&keyword=PLFW+ProS.30 &x=0&y=0|
-counter iteration:943
+counter iteration:942
            
 URL to redirect: http://dev.venthoodpro.com/index.php?main_page=advanced_search_result&search_in_description=1&keyword=Pljw&x=0&y=0
 End URL should be:|http://dev.venthoodpro.com/catalogsearch/result/?q=wall+mount+with+glass|
 But is actually returning:|http://dev.venthoodpro.com/catalogsearch/result/?q=pljw|
-counter iteration:944
+counter iteration:943
            
 URL to redirect: http://dev.venthoodpro.com/index.php?main_page=advanced_search_result&search_in_description=1&keyword=pljw+101.36&x=0&y=0
 End URL should be:|http://dev.venthoodpro.com/catalogsearch/result/?q=wc.430|
 But is actually returning:|http://dev.venthoodpro.com/index.php?main_page=advanced_search_result&search_in_description=1&keyword=pljw+101.36&x=0&y=0|
-counter iteration:945
+counter iteration:944
            
 URL to redirect: http://dev.venthoodpro.com/index.php?main_page=advanced_search_result&search_in_description=1&keyword=pljw+109.36&x=0&y=0
 End URL should be:|http://dev.venthoodpro.com/catalogsearch/result/?q=white+hood|
 But is actually returning:|http://dev.venthoodpro.com/index.php?main_page=advanced_search_result&search_in_description=1&keyword=pljw+109.36&x=0&y=0|
-counter iteration:946
+counter iteration:945
            
 URL to redirect: http://dev.venthoodpro.com/index.php?main_page=advanced_search_result&search_in_description=1&keyword=PLJW+129.42&x=0&y=0
 End URL should be:|http://dev.venthoodpro.com/catalogsearch/result/?q=white+range+hoods|
 But is actually returning:|http://dev.venthoodpro.com/index.php?main_page=advanced_search_result&search_in_description=1&keyword=PLJW+129.42&x=0&y=0|
-counter iteration:947
+counter iteration:946
            
 URL to redirect: http://dev.venthoodpro.com/index.php?main_page=advanced_search_result&search_in_description=1&keyword=PLJW+133.30&x=0&y=0
 End URL should be:|http://dev.venthoodpro.com/catalogsearch/result/?q=wolf+canopy|
 But is actually returning:|http://dev.venthoodpro.com/index.php?main_page=advanced_search_result&search_in_description=1&keyword=PLJW+133.30&x=0&y=0|
-counter iteration:948
+counter iteration:947
            
 URL to redirect: http://dev.venthoodpro.com/index.php?main_page=advanced_search_result&search_in_description=1&keyword=pljw109&x=0&y=0
 End URL should be:|http://dev.venthoodpro.com/catalogsearch/result/?q=z+line|
 But is actually returning:|http://dev.venthoodpro.com/catalogsearch/result/?q=pljw109|
-counter iteration:949
+counter iteration:948
            
 URL to redirect: http://dev.venthoodpro.com/index.php?main_page=advanced_search_result&search_in_description=1&keyword=PLSI+440&x=19&y=12
 End URL should be:|http://dev.venthoodpro.com/catalogsearch/result/?q=48hood|
 But is actually returning:|http://dev.venthoodpro.com/index.php?main_page=advanced_search_result&search_in_description=1&keyword=PLSI+440&x=19&y=12|
-counter iteration:950
+counter iteration:949
            
 URL to redirect: http://dev.venthoodpro.com/index.php?main_page=advanced_search_result&search_in_description=1&keyword=Plus&x=0&y=0
 End URL should be:|http://dev.venthoodpro.com/catalogsearch/result/?q=60inch+island|
 But is actually returning:|http://dev.venthoodpro.com/catalogsearch/result/?q=Plus|
-counter iteration:951
+counter iteration:950
            
 URL to redirect: http://dev.venthoodpro.com/index.php?main_page=advanced_search_result&search_in_description=1&keyword=plzw&inc_subcat=0&sort=20a&page=1
 End URL should be:|http://dev.venthoodpro.com/catalogsearch/result/?q=Concession|
 But is actually returning:|http://dev.venthoodpro.com/catalogsearch/result/?q=plzw|
-counter iteration:952
+counter iteration:951
            
 URL to redirect: http://dev.venthoodpro.com/index.php?main_page=advanced_search_result&search_in_description=1&keyword=Pro+z&x=0&y=0
 End URL should be:|http://dev.venthoodpro.com/catalogsearch/result/?q=Coupons|
 But is actually returning:|http://dev.venthoodpro.com/index.php?main_page=advanced_search_result&search_in_description=1&keyword=Pro+z&x=0&y=0|
-counter iteration:953
+counter iteration:952
            
 URL to redirect: http://dev.venthoodpro.com/index.php?main_page=advanced_search_result&search_in_description=1&keyword=proline range hood&inc_subcat=0&sort=20a&page=2
 End URL should be:|http://dev.venthoodpro.com/catalogsearch/result/?q=Gas+ranges|
 But is actually returning:|http://dev.venthoodpro.com/index.php?main_page=advanced_search_result&search_in_description=1&keyword=proline range hood&inc_subcat=0&sort=20a&page=2|
-counter iteration:954
+counter iteration:953
            
 URL to redirect: http://dev.venthoodpro.com/index.php?main_page=advanced_search_result&search_in_description=1&keyword=ProS.30&x=0&y=0
 End URL should be:|http://dev.venthoodpro.com/catalogsearch/result/?q=rhf0619|
 But is actually returning:|http://dev.venthoodpro.com/catalogsearch/result/?q=pros.30|
-counter iteration:955
+counter iteration:954
            
 URL to redirect: http://dev.venthoodpro.com/index.php?main_page=advanced_search_result&search_in_description=1&keyword=Pros.36&x=0&y=0
 End URL should be:|http://dev.venthoodpro.com/catalogsearch/result/?q=search|
 But is actually returning:|http://dev.venthoodpro.com/catalogsearch/result/?q=pros.36|
-counter iteration:956
+counter iteration:955
            
 URL to redirect: http://dev.venthoodpro.com/index.php?main_page=advanced_search_result&search_in_description=1&keyword=pros.42&x=0&y=0
 End URL should be:|http://dev.venthoodpro.com/catalogsearch/result/?q=vent+accessories|
 But is actually returning:|http://dev.venthoodpro.com/catalogsearch/result/?q=pros.42|
-counter iteration:957
+counter iteration:956
            
 URL to redirect: http://dev.venthoodpro.com/index.php?main_page=advanced_search_result&search_in_description=1&keyword=PROSI30&x=0&y=0
 End URL should be:|http://dev.venthoodpro.com/catalogsearch/result/?q=15.36|
 But is actually returning:|http://dev.venthoodpro.com/catalogsearch/result/?q=prosi30|
-counter iteration:958
+counter iteration:957
            
 URL to redirect: http://dev.venthoodpro.com/index.php?main_page=advanced_search_result&search_in_description=1&keyword=prosi42&x=0&y=0
 End URL should be:|http://dev.venthoodpro.com/catalogsearch/result/?q=1500+chev|
 But is actually returning:|http://dev.venthoodpro.com/catalogsearch/result/?q=pros.42|
-counter iteration:959
+counter iteration:958
            
 URL to redirect: http://dev.venthoodpro.com/index.php?main_page=advanced_search_result&search_in_description=1&keyword=prosi48&x=0&y=0
 End URL should be:|http://dev.venthoodpro.com/catalogsearch/result/?q=26+inch+stainless+gas+stove+stop|
 But is actually returning:|http://dev.venthoodpro.com/catalogsearch/result/?q=prosi48|
-counter iteration:960
+counter iteration:959
            
 URL to redirect: http://dev.venthoodpro.com/index.php?main_page=advanced_search_result&search_in_description=1&keyword=prosw+48&x=0&y=0
 End URL should be:|http://dev.venthoodpro.com/catalogsearch/result/?q=30+inch+recirculating+range+vent|
 But is actually returning:|http://dev.venthoodpro.com/index.php?main_page=advanced_search_result&search_in_description=1&keyword=prosw+48&x=0&y=0|
-counter iteration:961
+counter iteration:960
            
 URL to redirect: http://dev.venthoodpro.com/index.php?main_page=advanced_search_result&search_in_description=1&keyword=prosw+60&x=0&y=0
 End URL should be:|http://dev.venthoodpro.com/catalogsearch/result/?q=30+900+CFM+Ducted+Wall/Under+Cabinet+Range+hood|
 But is actually returning:|http://dev.venthoodpro.com/index.php?main_page=advanced_search_result&search_in_description=1&keyword=prosw+60&x=0&y=0|
-counter iteration:962
+counter iteration:961
            
 URL to redirect: http://dev.venthoodpro.com/index.php?main_page=advanced_search_result&search_in_description=1&keyword=ProV+36&x=0&y=0
 End URL should be:|http://dev.venthoodpro.com/catalogsearch/result/?q=36hood|
 But is actually returning:|http://dev.venthoodpro.com/index.php?main_page=advanced_search_result&search_in_description=1&keyword=ProV+36&x=0&y=0|
-counter iteration:963
+counter iteration:962
            
 URL to redirect: http://dev.venthoodpro.com/index.php?main_page=advanced_search_result&search_in_description=1&keyword=Prov+60W.430&x=0&y=0
 End URL should be:|http://dev.venthoodpro.com/catalogsearch/result/?q=400cfm|
 But is actually returning:|http://dev.venthoodpro.com/index.php?main_page=advanced_search_result&search_in_description=1&keyword=Prov+60W.430&x=0&y=0|
-counter iteration:964
+counter iteration:963
            
 URL to redirect: http://dev.venthoodpro.com/index.php?main_page=advanced_search_result&search_in_description=1&keyword=ProV+60WC.430 &x=0&y=0
 End URL should be:|http://dev.venthoodpro.com/catalogsearch/result/?q=520.54|
 But is actually returning:|http://dev.venthoodpro.com/index.php?main_page=advanced_search_result&search_in_description=1&keyword=ProV+60WC.430 &x=0&y=0|
-counter iteration:965
+counter iteration:964
            
 URL to redirect: http://dev.venthoodpro.com/index.php?main_page=advanced_search_result&search_in_description=1&keyword=Rang+hood+insert&x=0&y=0
 End URL should be:|http://dev.venthoodpro.com/catalogsearch/result/?q=582.3+0|
 But is actually returning:|http://dev.venthoodpro.com/index.php?main_page=advanced_search_result&search_in_description=1&keyword=Rang+hood+insert&x=0&y=0|
-counter iteration:966
+counter iteration:965
            
 URL to redirect: http://dev.venthoodpro.com/index.php?main_page=advanced_search_result&search_in_description=1&keyword=Range hood&inc_subcat=0&sort=20a&page=14
 End URL should be:|http://dev.venthoodpro.com/catalogsearch/result/?q=60+venthood|
 But is actually returning:|http://dev.venthoodpro.com/index.php?main_page=advanced_search_result&search_in_description=1&keyword=Range hood&inc_subcat=0&sort=20a&page=14|
-counter iteration:967
+counter iteration:966
            
 URL to redirect: http://dev.venthoodpro.com/index.php?main_page=advanced_search_result&search_in_description=1&keyword=Range hood&inc_subcat=0&sort=20a&page=2
 End URL should be:|http://dev.venthoodpro.com/catalogsearch/result/?q=dealer|
 But is actually returning:|http://dev.venthoodpro.com/index.php?main_page=advanced_search_result&search_in_description=1&keyword=Range hood&inc_subcat=0&sort=20a&page=2|
-counter iteration:968
+counter iteration:967
            
 URL to redirect: http://dev.venthoodpro.com/index.php?main_page=advanced_search_result&search_in_description=1&keyword=range+hood+30&x=0&y=0
 End URL should be:|http://dev.venthoodpro.com/catalogsearch/result/?q=dwg.no.371d447p7|
 But is actually returning:|http://dev.venthoodpro.com/index.php?main_page=advanced_search_result&search_in_description=1&keyword=range+hood+30&x=0&y=0|
-counter iteration:969
+counter iteration:968
            
 URL to redirect: http://dev.venthoodpro.com/index.php?main_page=advanced_search_result&search_in_description=1&keyword=roof+cal&x=0&y=0
 End URL should be:|http://dev.venthoodpro.com/catalogsearch/result/?q=how+big+of+a+vent+do+i+need|
 But is actually returning:|http://dev.venthoodpro.com/index.php?main_page=advanced_search_result&search_in_description=1&keyword=roof+cal&x=0&y=0|
-counter iteration:970
+counter iteration:969
            
 URL to redirect: http://dev.venthoodpro.com/index.php?main_page=advanced_search_result&search_in_description=1&keyword=Roof+cap&x=50&y=20
 End URL should be:|http://dev.venthoodpro.com/catalogsearch/result/?q=kb.36|
 But is actually returning:|http://dev.venthoodpro.com/index.php?main_page=advanced_search_result&search_in_description=1&keyword=Roof+cap&x=50&y=20|
-counter iteration:971
+counter iteration:970
            
 URL to redirect: http://dev.venthoodpro.com/index.php?main_page=advanced_search_result&search_in_description=1&keyword=Roof+vent&x=31&y=8
 End URL should be:|http://dev.venthoodpro.com/catalogsearch/result/?q=ke.30|
 But is actually returning:|http://dev.venthoodpro.com/index.php?main_page=advanced_search_result&search_in_description=1&keyword=Roof+vent&x=31&y=8|
-counter iteration:972
+counter iteration:971
            
 URL to redirect: http://dev.venthoodpro.com/index.php?main_page=advanced_search_result&search_in_description=1&keyword=Roof+vent&x=34&y=4
 End URL should be:|http://dev.venthoodpro.com/catalogsearch/result/?q=ke.36|
 But is actually returning:|http://dev.venthoodpro.com/index.php?main_page=advanced_search_result&search_in_description=1&keyword=Roof+vent&x=34&y=4|
-counter iteration:973
+counter iteration:972
            
 URL to redirect: http://dev.venthoodpro.com/index.php?main_page=advanced_search_result&search_in_description=1&keyword=stainless steel wall hood 30&inc_subcat=0&sort=20a&page=4
 End URL should be:|http://dev.venthoodpro.com/catalogsearch/result/?q=kitchen+window+fans|
 But is actually returning:|http://dev.venthoodpro.com/index.php?main_page=advanced_search_result&search_in_description=1&keyword=stainless steel wall hood 30&inc_subcat=0&sort=20a&page=4|
-counter iteration:974
+counter iteration:973
            
 URL to redirect: http://dev.venthoodpro.com/index.php?main_page=advanced_search_result&search_in_description=1&keyword=Under cabinet hood&inc_subcat=0&sort=20a&page=4
 End URL should be:|http://dev.venthoodpro.com/catalogsearch/result/?q=non+vented|
 But is actually returning:|http://dev.venthoodpro.com/index.php?main_page=advanced_search_result&search_in_description=1&keyword=Under cabinet hood&inc_subcat=0&sort=20a&page=4|
-counter iteration:975
+counter iteration:974
            
 URL to redirect: http://dev.venthoodpro.com/index.php?main_page=advanced_search_result&search_in_description=1&keyword=vector.30&x=0&y=0
 End URL should be:|http://dev.venthoodpro.com/catalogsearch/result/?q=p22|
 But is actually returning:|http://dev.venthoodpro.com/catalogsearch/result/?q=vector.30|
-counter iteration:976
+counter iteration:975
            
 URL to redirect: http://dev.venthoodpro.com/index.php?main_page=advanced_search_result&search_in_description=1&keyword=Vector&x=0&y=0
 End URL should be:|http://dev.venthoodpro.com/catalogsearch/result/?q=plfi+440.24|
 But is actually returning:|http://dev.venthoodpro.com/catalogsearch/result/?q=vector|
-counter iteration:977
+counter iteration:976
            
 URL to redirect: http://dev.venthoodpro.com/index.php?main_page=advanced_search_result&search_in_description=1&keyword=vector+36&x=20&y=10
 End URL should be:|http://dev.venthoodpro.com/catalogsearch/result/?q=plfw129-36|
 But is actually returning:|http://dev.venthoodpro.com/index.php?main_page=advanced_search_result&search_in_description=1&keyword=vector+36&x=20&y=10|
-counter iteration:978
+counter iteration:977
            
 URL to redirect: http://dev.venthoodpro.com/index.php?main_page=advanced_search_result&search_in_description=1&keyword=vector+36&x=39&y=11
 End URL should be:|http://dev.venthoodpro.com/catalogsearch/result/?q=plfw55|
 But is actually returning:|http://dev.venthoodpro.com/index.php?main_page=advanced_search_result&search_in_description=1&keyword=vector+36&x=39&y=11|
-counter iteration:979
+counter iteration:978
            
 URL to redirect: http://dev.venthoodpro.com/index.php?main_page=advanced_search_result&search_in_description=1&keyword=vector+wall+hood&x=12&y=9
 End URL should be:|http://dev.venthoodpro.com/catalogsearch/result/?q=pljw101.36|
 But is actually returning:|http://dev.venthoodpro.com/index.php?main_page=advanced_search_result&search_in_description=1&keyword=vector+wall+hood&x=12&y=9|
-counter iteration:980
+counter iteration:979
            
 URL to redirect: http://dev.venthoodpro.com/index.php?main_page=advanced_search_result&search_in_description=1&keyword=vent+hoods&x=0&y=0
 End URL should be:|http://dev.venthoodpro.com/catalogsearch/result/?q=pljw104|
 But is actually returning:|http://dev.venthoodpro.com/index.php?main_page=advanced_search_result&search_in_description=1&keyword=vent+hoods&x=0&y=0|
-counter iteration:981
+counter iteration:980
            
 URL to redirect: http://dev.venthoodpro.com/index.php?main_page=advanced_search_result&search_in_description=1&keyword=viking hoods&inc_subcat=0&sort=20a&page=2
 End URL should be:|http://dev.venthoodpro.com/catalogsearch/result/?q=plwz.ins.4015|
 But is actually returning:|http://dev.venthoodpro.com/index.php?main_page=advanced_search_result&search_in_description=1&keyword=viking hoods&inc_subcat=0&sort=20a&page=2|
-counter iteration:982
+counter iteration:981
            
 URL to redirect: http://dev.venthoodpro.com/index.php?main_page=advanced_search_result&search_in_description=1&keyword=Wall+mount+with+glass&x=30&y=19
 End URL should be:|http://dev.venthoodpro.com/catalogsearch/result/?q=plzwins4615|
 But is actually returning:|http://dev.venthoodpro.com/index.php?main_page=advanced_search_result&search_in_description=1&keyword=Wall+mount+with+glass&x=30&y=19|
-counter iteration:983
+counter iteration:982
            
 URL to redirect: http://dev.venthoodpro.com/index.php?main_page=advanced_search_result&search_in_description=1&keyword=wc.430&inc_subcat=0&page=1&sort=3d
 End URL should be:|http://dev.venthoodpro.com/catalogsearch/result/?q=pop+up+stove+vent|
 But is actually returning:|http://dev.venthoodpro.com/catalogsearch/result/?q=wc.430|
-counter iteration:984
+counter iteration:983
            
 URL to redirect: http://dev.venthoodpro.com/index.php?main_page=advanced_search_result&search_in_description=1&keyword=white+hood&x=0&y=0
 End URL should be:|http://dev.venthoodpro.com/catalogsearch/result/?q=prosw36|
 But is actually returning:|http://dev.venthoodpro.com/index.php?main_page=advanced_search_result&search_in_description=1&keyword=white+hood&x=0&y=0|
-counter iteration:985
+counter iteration:984
            
 URL to redirect: http://dev.venthoodpro.com/index.php?main_page=advanced_search_result&search_in_description=1&keyword=White+range+hoods&x=31&y=2
 End URL should be:|http://dev.venthoodpro.com/catalogsearch/result/?q=range+hood+on+sale|
 But is actually returning:|http://dev.venthoodpro.com/index.php?main_page=advanced_search_result&search_in_description=1&keyword=White+range+hoods&x=31&y=2|
-counter iteration:986
+counter iteration:985
            
 URL to redirect: http://dev.venthoodpro.com/index.php?main_page=advanced_search_result&search_in_description=1&keyword=wolf+canopy&x=0&y=0
 End URL should be:|http://dev.venthoodpro.com/catalogsearch/result/?q=resizing+range+hood|
 But is actually returning:|http://dev.venthoodpro.com/index.php?main_page=advanced_search_result&search_in_description=1&keyword=wolf+canopy&x=0&y=0|
-counter iteration:987
+counter iteration:986
            
 URL to redirect: http://dev.venthoodpro.com/index.php?main_page=advanced_search_result&search_in_description=1&keyword=Z line&inc_subcat=0&sort=20a&page=3
 End URL should be:|http://dev.venthoodpro.com/catalogsearch/result/?q=restaurant+vent|
 But is actually returning:|http://dev.venthoodpro.com/index.php?main_page=advanced_search_result&search_in_description=1&keyword=Z line&inc_subcat=0&sort=20a&page=3|
-counter iteration:988
+counter iteration:987
            
 URL to redirect: http://dev.venthoodpro.com/index.php?main_page=advanced_search&keyword=48hood&search_in_description=1&inc_subcat=0&sort=20a
 End URL should be:|http://dev.venthoodpro.com/catalogsearch/result/?q=reviews|
 But is actually returning:|http://dev.venthoodpro.com/catalogsearch/result/?q=48hood|
-counter iteration:989
+counter iteration:988
            
 URL to redirect: http://dev.venthoodpro.com/index.php?main_page=advanced_search&keyword=60inch island&search_in_description=1&inc_subcat=1&sort=20a
 End URL should be:|http://dev.venthoodpro.com/catalogsearch/result/?q=sale|
 But is actually returning:|http://dev.venthoodpro.com/index.php?main_page=advanced_search&keyword=60inch island&search_in_description=1&inc_subcat=1&sort=20a|
-counter iteration:990
+counter iteration:989
            
 URL to redirect: http://dev.venthoodpro.com/index.php?main_page=advanced_search&keyword=Concession&search_in_description=1&inc_subcat=0&sort=20a
 End URL should be:|http://dev.venthoodpro.com/catalogsearch/result/?q=slate+rangehood|
 But is actually returning:|http://dev.venthoodpro.com/catalogsearch/result/?q=Concession|
-counter iteration:991
+counter iteration:990
            
 URL to redirect: http://dev.venthoodpro.com/index.php?main_page=advanced_search&keyword=Coupons&search_in_description=1&manufacturers_id=1&inc_subcat=0&sort=20a
 End URL should be:|http://dev.venthoodpro.com/catalogsearch/result/?q=stainless+steel+30+cfm+500+wall|
 But is actually returning:|http://dev.venthoodpro.com/catalogsearch/result/?q=Coupons|
-counter iteration:992
+counter iteration:991
            
 URL to redirect: http://dev.venthoodpro.com/index.php?main_page=advanced_search&keyword=Gas ranges&search_in_description=1&inc_subcat=0&sort=20a
 End URL should be:|http://dev.venthoodpro.com/index.php|
 But is actually returning:|http://dev.venthoodpro.com/index.php?main_page=advanced_search&keyword=Gas ranges&search_in_description=1&inc_subcat=0&sort=20a|
-counter iteration:993
+counter iteration:992
            
 URL to redirect: http://dev.venthoodpro.com/index.php?main_page=advanced_search&keyword=rhf0619&search_in_description=1&categories_id=44&inc_subcat=0&sort=20a
 End URL should be:|http://dev.venthoodpro.com/contact|
 But is actually returning:|http://dev.venthoodpro.com/catalogsearch/result/?q=rhf0619|
-counter iteration:994
+counter iteration:993
            
 URL to redirect: http://dev.venthoodpro.com/index.php?main_page=advanced_search&keyword=Search&search_in_description=1&categories_id=93&inc_subcat=0&sort=20a
 End URL should be:|http://dev.venthoodpro.com/blowers-and-accessories/chimney-extensions.html|
 But is actually returning:|http://dev.venthoodpro.com/catalogsearch/result/?q=search|
-counter iteration:995
+counter iteration:994
            
 URL to redirect: http://dev.venthoodpro.com/index.php?main_page=advanced_search&keyword=Vent accessories&search_in_description=1&categories_id=59&inc_subcat=0&sort=20a
 End URL should be:|http://dev.venthoodpro.com/professional-range-hoods/30-professional-series-hoods.html|
 But is actually returning:|http://dev.venthoodpro.com/index.php?main_page=advanced_search&keyword=Vent accessories&search_in_description=1&categories_id=59&inc_subcat=0&sort=20a|
-counter iteration:996
+counter iteration:995
            
 URL to redirect: http://dev.venthoodpro.com/index.php?main_page=advanced_search&search_in_description=1&keyword=15.36&inc_subcat=0&sort=20a
 End URL should be:|http://dev.venthoodpro.com/professional-range-hoods/30-professional-series-hoods.html|
 But is actually returning:|http://dev.venthoodpro.com/catalogsearch/result/?q=15.36|
-counter iteration:997
+counter iteration:996
            
 URL to redirect: http://dev.venthoodpro.com/index.php?main_page=advanced_search&search_in_description=1&keyword=1500 chev&inc_subcat=0&sort=20a
 End URL should be:|http://dev.venthoodpro.com/professional-range-hoods/36-professional-series-hoods.html|
 But is actually returning:|http://dev.venthoodpro.com/index.php?main_page=advanced_search&search_in_description=1&keyword=1500 chev&inc_subcat=0&sort=20a|
-counter iteration:998
+counter iteration:997
            
 URL to redirect: http://dev.venthoodpro.com/index.php?main_page=advanced_search&search_in_description=1&keyword=26 inch stainless gas stove top&inc_subcat=0&sort=20a
 End URL should be:|http://dev.venthoodpro.com/professional-range-hoods/42-professional-series-hoods.html|
 But is actually returning:|http://dev.venthoodpro.com/index.php?main_page=advanced_search&search_in_description=1&keyword=26 inch stainless gas stove top&inc_subcat=0&sort=20a|
-counter iteration:999
+counter iteration:998
            
 URL to redirect: http://dev.venthoodpro.com/index.php?main_page=advanced_search&search_in_description=1&keyword=30 inch recirculating range vent&inc_subcat=0&sort=20a
 End URL should be:|http://dev.venthoodpro.com/professional-range-hoods/42-professional-series-hoods.html|
 But is actually returning:|http://dev.venthoodpro.com/index.php?main_page=advanced_search&search_in_description=1&keyword=30 inch recirculating range vent&inc_subcat=0&sort=20a|
-counter iteration:1000
+counter iteration:999
            
 URL to redirect: http://dev.venthoodpro.com/index.php?main_page=advanced_search&search_in_description=1&keyword=30 900 CFM Ducted Wall/Under Cabinet Range Hood&inc_subcat=0&sort=20a
 End URL should be:|http://dev.venthoodpro.comprofessional-range-hoods/48-professional-series-hoods.html|
 But is actually returning:|http://dev.venthoodpro.com/index.php?main_page=advanced_search&search_in_description=1&keyword=30 900 CFM Ducted Wall/Under Cabinet Range Hood&inc_subcat=0&sort=20a|
-counter iteration:1001
+counter iteration:1000
            
 URL to redirect: http://dev.venthoodpro.com/index.php?main_page=advanced_search&search_in_description=1&keyword=36hood&inc_subcat=0&sort=20a
 End URL should be:|http://dev.venthoodpro.com/wall-range-hoods/30-wall-hoods.html|
 But is actually returning:|http://dev.venthoodpro.com/catalogsearch/result/?q=36hood|
-counter iteration:1002
+counter iteration:1001
            
 URL to redirect: http://dev.venthoodpro.com/index.php?main_page=advanced_search&search_in_description=1&keyword=400cfm&inc_subcat=0&sort=20a
 End URL should be:|http://dev.venthoodpro.com/wall-range-hoods/30-wall-hoods.html|
 But is actually returning:|http://dev.venthoodpro.com/catalogsearch/result/?q=400cfm|
-counter iteration:1003
+counter iteration:1002
            
 URL to redirect: http://dev.venthoodpro.com/index.php?main_page=advanced_search&search_in_description=1&keyword=520.54&inc_subcat=0&sort=20a
 End URL should be:|http://dev.venthoodpro.com/wall-range-hoods/48-wall-hoods.html|
 But is actually returning:|http://dev.venthoodpro.com/catalogsearch/result/?q=520.54|
-counter iteration:1004
+counter iteration:1003
            
 URL to redirect: http://dev.venthoodpro.com/index.php?main_page=advanced_search&search_in_description=1&keyword=582.3 0
 End URL should be:|http://dev.venthoodpro.com/wall-range-hoods/54-wall-hoods.html|
 But is actually returning:|http://dev.venthoodpro.com/index.php?main_page=advanced_search&search_in_description=1&keyword=582.3 0|
-counter iteration:1005
-           
-URL to redirect: http://dev.venthoodpro.com/index.php?main_page=advanced_search&search_in_description=1&keyword=60 venthood&inc_subcat=0&sort=20a
-End URL should be:|http://dev.venthoodpro.com/under-cabinet-hoods/30-under-cabinet-hoods.html|
-But is actually returning:|http://dev.venthoodpro.com/index.php?main_page=advanced_search&search_in_description=1&keyword=60 venthood&inc_subcat=0&sort=20a|
-counter iteration:1006
-           
-URL to redirect: http://dev.venthoodpro.com/index.php?main_page=advanced_search&search_in_description=1&keyword=dealer&inc_subcat=0&sort=20a
-End URL should be:|http://dev.venthoodpro.com/under-cabinet-hoods/48-under-cabinet-hoods.html|
-But is actually returning:|http://dev.venthoodpro.com/catalogsearch/result/?q=dealer|
-counter iteration:1007
-           
-URL to redirect: http://dev.venthoodpro.com/index.php?main_page=advanced_search&search_in_description=1&keyword=Dwg.no.371d447p7&inc_subcat=0&sort=20a
-End URL should be:|http://dev.venthoodpro.comnoproductstolist|
-But is actually returning:|http://dev.venthoodpro.com/catalogsearch/result/?q=dwg.no.371d447p7|
-counter iteration:1008
-           
-URL to redirect: http://dev.venthoodpro.com/index.php?main_page=advanced_search&search_in_description=1&keyword=How big of a vent do I need&inc_subcat=0&sort=20a
-End URL should be:|http://dev.venthoodpro.com/outdoor-range-hoods/48-outdoor-hoods.html|
-But is actually returning:|http://dev.venthoodpro.com/index.php?main_page=advanced_search&search_in_description=1&keyword=How big of a vent do I need&inc_subcat=0&sort=20a|
-counter iteration:1009
-           
-URL to redirect: http://dev.venthoodpro.com/index.php?main_page=advanced_search&search_in_description=1&keyword=kb.36&inc_subcat=0&sort=20a
-End URL should be:|http://dev.venthoodpro.com/index.php|
-But is actually returning:|http://dev.venthoodpro.com/catalogsearch/result/?q=kb.36|
-counter iteration:1010
-           
-URL to redirect: http://dev.venthoodpro.com/index.php?main_page=advanced_search&search_in_description=1&keyword=ke.30&inc_subcat=0&sort=20a
-End URL should be:|http://dev.venthoodpro.comrangehoodgiveawaything?nolongerrelevant?|
-But is actually returning:|http://dev.venthoodpro.com/catalogsearch/result/?q=ke.30|
-counter iteration:1011
-           
-URL to redirect: http://dev.venthoodpro.com/index.php?main_page=advanced_search&search_in_description=1&keyword=ke.36&inc_subcat=0&sort=20a
-End URL should be:|http://dev.venthoodpro.compagenotfound|
-But is actually returning:|http://dev.venthoodpro.com/catalogsearch/result/?q=ke.36|
-counter iteration:1012
-           
-URL to redirect: http://dev.venthoodpro.com/index.php?main_page=advanced_search&search_in_description=1&keyword=Kitchen window fans&inc_subcat=0&sort=20a
-End URL should be:|http://dev.venthoodpro.comproductnotfound|
-But is actually returning:|http://dev.venthoodpro.com/index.php?main_page=advanced_search&search_in_description=1&keyword=Kitchen window fans&inc_subcat=0&sort=20a|
-counter iteration:1013
-           
-URL to redirect: http://dev.venthoodpro.com/index.php?main_page=advanced_search&search_in_description=1&keyword=non vented&inc_subcat=0&sort=20a
-End URL should be:|http://dev.venthoodpro.com/pljw-129-30-36-24-chimney-extension-single-piece.html|
-But is actually returning:|http://dev.venthoodpro.com/index.php?main_page=advanced_search&search_in_description=1&keyword=non vented&inc_subcat=0&sort=20a|
-counter iteration:1014
-           
-URL to redirect: http://dev.venthoodpro.com/index.php?main_page=advanced_search&search_in_description=1&keyword=p22&inc_subcat=0&sort=20a
-End URL should be:|http://dev.venthoodpro.com/30-wall-range-hood-model-pljw109-30.html|
-But is actually returning:|http://dev.venthoodpro.com/catalogsearch/result/?q=p22|
-counter iteration:1015
-           
-URL to redirect: http://dev.venthoodpro.com/index.php?main_page=advanced_search&search_in_description=1&keyword=plfi 440.24&inc_subcat=0&sort=20a
-End URL should be:|http://dev.venthoodpro.com/30-professional-range-hood-w-1000-cfm-blower-model-pljw-101-30.html|
-But is actually returning:|http://dev.venthoodpro.com/index.php?main_page=advanced_search&search_in_description=1&keyword=plfi 440.24&inc_subcat=0&sort=20a|
-counter iteration:1016
-           
-URL to redirect: http://dev.venthoodpro.com/index.php?main_page=advanced_search&search_in_description=1&keyword=PLFW129-36&inc_subcat=0&sort=20a
-End URL should be:|http://dev.venthoodpro.com/30-professional-range-hood-w-1000-cfm-blower-model-pljw-101-30.html|
-But is actually returning:|http://dev.venthoodpro.com/catalogsearch/result/?q=plfw129-36|
-counter iteration:1017
-           
-URL to redirect: http://dev.venthoodpro.com/index.php?main_page=advanced_search&search_in_description=1&keyword=PLFW55&inc_subcat=0&sort=20a
-End URL should be:|http://dev.venthoodpro.com/30-professional-range-hood-pljw102-30.html|
-But is actually returning:|http://dev.venthoodpro.com/catalogsearch/result/?q=plfw55|
-counter iteration:1018
-           
-URL to redirect: http://dev.venthoodpro.com/index.php?main_page=advanced_search&search_in_description=1&keyword=PLJW101.36&inc_subcat=0&sort=20a
-End URL should be:|http://dev.venthoodpro.com/professional-range-hoods/30-professional-series-hoods.html|
-But is actually returning:|http://dev.venthoodpro.com/catalogsearch/result/?q=pljw101.36|
-counter iteration:1019
-           
-URL to redirect: http://dev.venthoodpro.com/index.php?main_page=advanced_search&search_in_description=1&keyword=pljw104&inc_subcat=0&sort=20a
-End URL should be:|http://dev.venthoodpro.com/36-professional-range-hood-w-1000-cfm-blower-model-pljw-101-36.html|
-But is actually returning:|http://dev.venthoodpro.com/catalogsearch/result/?q=pljw104|
-counter iteration:1020
-           
-URL to redirect: http://dev.venthoodpro.com/index.php?main_page=advanced_search&search_in_description=1&keyword=PLWZ.INS.4015&inc_subcat=0&sort=20a
-End URL should be:|http://dev.venthoodpro.com/36-professional-wall-hood-commercial-quality-pljw-133-36.html|
-But is actually returning:|http://dev.venthoodpro.com/catalogsearch/result/?q=plwz.ins.4015|
-counter iteration:1021
-           
-URL to redirect: http://dev.venthoodpro.com/index.php?main_page=advanced_search&search_in_description=1&keyword=PLZWINS4615&inc_subcat=0&sort=20a
-End URL should be:|http://dev.venthoodpro.com/36-wall-range-hood-prov-36w-430.html|
-But is actually returning:|http://dev.venthoodpro.com/catalogsearch/result/?q=plzwins4615|
-counter iteration:1022
-           
-URL to redirect: http://dev.venthoodpro.com/index.php?main_page=advanced_search&search_in_description=1&keyword=Pop up stove vent&inc_subcat=0&sort=20a
-End URL should be:|http://dev.venthoodpro.com/36-pro-series-model-plfw-832-36-2000-cfm.html|
-But is actually returning:|http://dev.venthoodpro.com/index.php?main_page=advanced_search&search_in_description=1&keyword=Pop up stove vent&inc_subcat=0&sort=20a|
-counter iteration:1023
-           
-URL to redirect: http://dev.venthoodpro.com/index.php?main_page=advanced_search&search_in_description=1&keyword=PROSW36&inc_subcat=0&sort=20a
-End URL should be:|http://dev.venthoodpro.com/36-prov-chimney-wall-hood-most-popular-prov-36wc-430.html|
-But is actually returning:|http://dev.venthoodpro.com/catalogsearch/result/?q=prosw36|
-counter iteration:1024
-           
-URL to redirect: http://dev.venthoodpro.com/index.php?main_page=advanced_search&search_in_description=1&keyword=range hood on sale&inc_subcat=0&sort=20a
-End URL should be:|http://dev.venthoodpro.com/36-inch-pros-island-range-hood-prosi36.html|
-But is actually returning:|http://dev.venthoodpro.com/index.php?main_page=advanced_search&search_in_description=1&keyword=range hood on sale&inc_subcat=0&sort=20a|
-counter iteration:1025
-           
-URL to redirect: http://dev.venthoodpro.com/index.php?main_page=advanced_search&search_in_description=1&keyword=resizing range hood&inc_subcat=0&sort=20a
-End URL should be:|http://dev.venthoodpro.com/36-island-range-hood-provi-36-single.html|
-But is actually returning:|http://dev.venthoodpro.com/index.php?main_page=advanced_search&search_in_description=1&keyword=resizing range hood&inc_subcat=0&sort=20a|
-counter iteration:1026
-           
-URL to redirect: http://dev.venthoodpro.com/index.php?main_page=advanced_search&search_in_description=1&keyword=Restaurant vent&inc_subcat=0&sort=20a
-End URL should be:|http://dev.venthoodpro.com/42-professional-wall-hood-1000-cfm-model-pljw-109-42.html|
-But is actually returning:|http://dev.venthoodpro.com/index.php?main_page=advanced_search&search_in_description=1&keyword=Restaurant vent&inc_subcat=0&sort=20a|
-counter iteration:1027
-           
-URL to redirect: http://dev.venthoodpro.com/index.php?main_page=advanced_search&search_in_description=1&keyword=Reviews&inc_subcat=0&sort=20a
-End URL should be:|http://dev.venthoodpro.com/42-stainless-wall-hood-plzw-697-42-1200cfm.html|
-But is actually returning:|http://dev.venthoodpro.com/catalogsearch/result/?q=reviews|
-counter iteration:1028
-           
-URL to redirect: http://dev.venthoodpro.com/index.php?main_page=advanced_search&search_in_description=1&keyword=Sale&inc_subcat=0&sort=20a
-End URL should be:|http://dev.venthoodpro.com/42-professional-wall-hood-commercial-quality-pljw-117-42.html|
-But is actually returning:|http://dev.venthoodpro.com/catalogsearch/result/?q=sale|
-counter iteration:1029
-           
-URL to redirect: http://dev.venthoodpro.com/index.php?main_page=advanced_search&search_in_description=1&keyword=Slate rangehood&inc_subcat=0&sort=20a
-End URL should be:|http://dev.venthoodpro.com/42-prov-chimney-wall-hood-430-stainless-steel-prov-42wc-430.html|
-But is actually returning:|http://dev.venthoodpro.com/index.php?main_page=advanced_search&search_in_description=1&keyword=Slate rangehood&inc_subcat=0&sort=20a|
-counter iteration:1030
-           
-URL to redirect: http://dev.venthoodpro.com/index.php?main_page=advanced_search&search_in_description=1&keyword=stainless steel 30 cfm 500 wall&inc_subcat=0&sort=20a
-End URL should be:|http://dev.venthoodpro.com/42-pros-wall-hood-most-popular-new-model-1320-cfm-prosw42.html|
-But is actually returning:|http://dev.venthoodpro.com/index.php?main_page=advanced_search&search_in_description=1&keyword=stainless steel 30 cfm 500 wall&inc_subcat=0&sort=20a|
-counter iteration:1031
-           
-URL to redirect: http://dev.venthoodpro.com/index.php?main_page=checkout_confirmation
-End URL should be:|http://dev.venthoodpro.com/42-professional-wall-hood-with-remote-commercial-plfw-115-42.html|
-But is actually returning:|http://dev.venthoodpro.com/index.php|
-counter iteration:1032
-           
-URL to redirect: http://dev.venthoodpro.com/index.php?main_page=contact_us  --needs a 301 redirect
-End URL should be:|http://dev.venthoodpro.com/42-wall-range-hood-plfi-755-42.html|
-But is actually returning:|http://dev.venthoodpro.com/index.php?main_page=contact_us  --needs a 301 redirect|
-counter iteration:1033
-           
-URL to redirect: http://dev.venthoodpro.com/index.php?main_page=index&cPath=12&sort=20a&page=2
-End URL should be:|http://dev.venthoodpro.com/48-professional-wall-hood-commercial-quality-pljw-113-48.html|
-But is actually returning:|http://dev.venthoodpro.com/blowers-and-accessories/chimney-extensions.html|
-counter iteration:1034
-           
-URL to redirect: http://dev.venthoodpro.com/index.php?main_page=index&cPath=30_35&sort=3a&page=2
-End URL should be:|http://dev.venthoodpro.com/48-professional-wall-hood-commercial-quality-pljw-117-48.html|
-But is actually returning:|http://dev.venthoodpro.com/professional-range-hoods/30-professional-series-hoods.html|
-counter iteration:1035
-           
-URL to redirect: http://dev.venthoodpro.com/index.php?main_page=index&cPath=30_35&sort=3d&page=1
-End URL should be:|http://dev.venthoodpro.com/48-stainless-wall-hood-plzw-697-48-1200cfm.html|
-But is actually returning:|http://dev.venthoodpro.com/professional-range-hoods/30-professional-series-hoods.html|
-counter iteration:1036
-           
-URL to redirect: http://dev.venthoodpro.com/index.php?main_page=index&cPath=30_36&sort=20a&page=1
-End URL should be:|http://dev.venthoodpro.com/48-professional-wall-hood-with-remote-commercial-plfw-115-48.html|
-But is actually returning:|http://dev.venthoodpro.com/professional-range-hoods/36-professional-series-hoods.html|
-counter iteration:1037
-           
-URL to redirect: http://dev.venthoodpro.com/index.php?main_page=index&cPath=30_37&sort=20a&page=1
-End URL should be:|http://dev.venthoodpro.com/48-under-cabinet-range-hood-pljw-108-48.html|
-But is actually returning:|http://dev.venthoodpro.com/professional-range-hoods/42-professional-series-hoods.html|
-counter iteration:1038
-           
-URL to redirect: http://dev.venthoodpro.com/index.php?main_page=index&cPath=30_37&sort=20a&page=3
-End URL should be:|http://dev.venthoodpro.com/48-wallmount-range-hood-plfw-755-48.html|
-But is actually returning:|http://dev.venthoodpro.com/professional-range-hoods/42-professional-series-hoods.html|
-counter iteration:1039
-           
-URL to redirect: http://dev.venthoodpro.com/index.php?main_page=index&cPath=30_38&sort=20a&page=1
-End URL should be:|http://dev.venthoodpro.com/54-professional-range-hood-2000cfm-commercial-pljw-101-54.html|
-But is actually returning:|http://dev.venthoodpro.com/rofessional-range-hoods/48-professional-series-hoods.html|
-counter iteration:1040
-           
-URL to redirect: http://dev.venthoodpro.com/index.php?main_page=index&cPath=32_45&page=1&sort=3a
-End URL should be:|http://dev.venthoodpro.com/60-stainless-wall-hood-plzw-697-60-1200cfm.html|
-But is actually returning:|http://dev.venthoodpro.com/wall-range-hoods/30-wall-hoods.html|
-counter iteration:1041
-           
-URL to redirect: http://dev.venthoodpro.com/index.php?main_page=index&cPath=32_45&sort=3d&page=2
-End URL should be:|http://dev.venthoodpro.com/60-stainless-wall-hood-plfw-750-60-1100cfm.html|
-But is actually returning:|http://dev.venthoodpro.com/wall-range-hoods/30-wall-hoods.html|
-counter iteration:1042
-           
-URL to redirect: http://dev.venthoodpro.com/index.php?main_page=index&cPath=32_48&sort=20a&page=1
-End URL should be:|http://dev.venthoodpro.com/36-island-range-hood-slimline-pro-plfi-544-36.html|
-But is actually returning:|http://dev.venthoodpro.com/wall-range-hoods/48-wall-hoods.html|
-counter iteration:1043
-           
-URL to redirect: http://dev.venthoodpro.com/index.php?main_page=index&cPath=32_56&sort=20a&page=1
-End URL should be:|http://dev.venthoodpro.com/36-island-hood-plfi-750-36-1100cfm.html|
-But is actually returning:|http://dev.venthoodpro.com/wall-range-hoods/54-wall-hoods.html|
-counter iteration:1044
-           
-URL to redirect: http://dev.venthoodpro.com/index.php?main_page=index&cPath=33_49&page=1&sort=3a
-End URL should be:|http://dev.venthoodpro.com/36-stainless-island-hood-plzi-697-36-1200cfm.html|
-But is actually returning:|http://dev.venthoodpro.com/under-cabinet-hoods/30-under-cabinet-hoods.html|
-counter iteration:1045
-           
-URL to redirect: http://dev.venthoodpro.com/index.php?main_page=index&cPath=33_52&sort=20a&page=1
-End URL should be:|http://dev.venthoodpro.com/54-professional-island-range-hood-plji-102-54.html|
-But is actually returning:|http://dev.venthoodpro.com/under-cabinet-hoods/48-under-cabinet-hoods.html|
-counter iteration:1046
-           
-URL to redirect: http://dev.venthoodpro.com/index.php?main_page=index&cPath=53&sort=20a&page=2
-End URL should be:|http://dev.venthoodpro.com/60-island-range-hood-provi-60.html|
-But is actually returning:|http://dev.venthoodpro.com/index.php?main_page=index&cPath=53&sort=20a&page=2|
-counter iteration:1047
-           
-URL to redirect: http://dev.venthoodpro.com/index.php?main_page=index&cPath=71_75&sort=20a&page=1
-End URL should be:|http://dev.venthoodpro.com/60-professional-island-range-hood-plji-102-60.html|
-But is actually returning:|http://dev.venthoodpro.com/outdoor-range-hoods/48-outdoor-hoods.html|
-counter iteration:1048
-           
-URL to redirect: http://dev.venthoodpro.com/index.php?main_page=index&Path=30_38&sort=20a&page=3
-End URL should be:|http://dev.venthoodpro.com/island-range-hoods/14-island-hoods.html|
-But is actually returning:|http://dev.venthoodpro.com/index.php|
-counter iteration:1049
-           
-URL to redirect: http://dev.venthoodpro.com/index.php?main_page=page&id=5
-End URL should be:|http://dev.venthoodpro.comproductdoesntexist|
-But is actually returning:|http://dev.venthoodpro.com/index.php?main_page=page&id=5|
-counter iteration:1050
-           
-URL to redirect: http://dev.venthoodpro.com/index.php?main_page=product_in
-End URL should be:|http://dev.venthoodpro.com/30-pro-series-model-plfw-832-30-1000-cfm.html|
-But is actually returning:|http://dev.venthoodpro.com/index.php?main_page=product_in|
-counter iteration:1051
-           
-URL to redirect: http://dev.venthoodpro.com/index.php?main_page=product_info&amp;products_id=486&amp;gclid=Cj0KEQjwt-G8BRDktsvwpPTn1PkBEiQA-MRsBfChDWLcLkVh6QXlFx0WFG7EFnjsHO1mVkKDayzgrc4aAgJa8P8HAQ
-End URL should be:|http://dev.venthoodpro.com/wall-range-hoods/36-wall-hood.html|
-But is actually returning:|http://dev.venthoodpro.com/index.php?main_page=product_info&amp;products_id=486&amp;gclid=Cj0KEQjwt-G8BRDktsvwpPTn1PkBEiQA-MRsBfChDWLcLkVh6QXlFx0WFG7EFnjsHO1mVkKDayzgrc4aAgJa8P8HAQ|
-counter iteration:1052
-           
-URL to redirect: http://dev.venthoodpro.com/index.php?main_page=product_info&cPath=12&products_id=96
-End URL should be:|http://dev.venthoodpro.com/wall-range-hoods/36-wall-hood.html|
-But is actually returning:|http://dev.venthoodpro.com/pljw-129-30-36-24-chimney-extension-single-piece.html|
-counter iteration:1053
-           
-URL to redirect: http://dev.venthoodpro.com/index.php?main_page=product_info&cPath=30_35&products_id=158&ref=lexity&_vs=adroll_facebook&_vm=facebook_retarget
-End URL should be:|http://dev.venthoodpro.com/36-wall-mount-range-hood-6-speed-plfw-520-36.html|
-But is actually returning:|http://dev.venthoodpro.com/30-wall-range-hood-model-pljw109-30.html|
-counter iteration:1054
-           
-URL to redirect: http://dev.venthoodpro.com/index.php?main_page=product_info&cPath=30_35&products_id=176:d2b8b1830c95fd0805b51e1ef08572b6
-End URL should be:|http://dev.venthoodpro.com/36-under-cabinet-range-hood-3-colors-available-plfw581-36.html|
-But is actually returning:|http://dev.venthoodpro.com/30-professional-range-hood-w-1000-cfm-blower-model-pljw-101-30.html|
-counter iteration:1055
-           
-URL to redirect: http://dev.venthoodpro.com/index.php?main_page=product_info&cPath=30_35&products_id=176&ref=lexity&_vs=adroll_facebook&_vm=facebook_retarget
-End URL should be:|http://dev.venthoodpro.com/42-stainless-wall-hood-plzw-697-42-1200cfm.html|
-But is actually returning:|http://dev.venthoodpro.com/30-professional-range-hood-w-1000-cfm-blower-model-pljw-101-30.html|
-counter iteration:1056
-           
-URL to redirect: http://dev.venthoodpro.com/index.php?main_page=product_info&cPath=30_35&products_id=204
-End URL should be:|http://dev.venthoodpro.com/42-stainless-wall-hood-plfw-750-42-1100cfm.html|
-But is actually returning:|http://dev.venthoodpro.com/30-professional-range-hood-pljw102-30.html|
-counter iteration:1057
-           
-URL to redirect: http://dev.venthoodpro.com/index.php?main_page=product_info&cPath=30_35&products_id=315
-End URL should be:|http://dev.venthoodpro.comproductdoesntexist|
-But is actually returning:|http://dev.venthoodpro.com/professional-range-hoods/30-professional-series-hoods.html|
-counter iteration:1058
-           
-URL to redirect: http://dev.venthoodpro.com/index.php?main_page=product_info&cPath=30_36&products_id=120
-End URL should be:|http://dev.venthoodpro.com/42-pro-series-model-plfw-832-42-2000-cfm.html|
-But is actually returning:|http://dev.venthoodpro.com/36-professional-range-hood-w-1000-cfm-blower-model-pljw-101-36.html|
-counter iteration:1059
-           
-URL to redirect: http://dev.venthoodpro.com/index.php?main_page=product_info&cPath=30_36&products_id=233
-End URL should be:|http://dev.venthoodpro.com/48-wall-hood-2000cfm-model-pljw-109-48.html|
-But is actually returning:|http://dev.venthoodpro.com/36-professional-wall-hood-commercial-quality-pljw-133-36.html|
-counter iteration:1060
-           
-URL to redirect: http://dev.venthoodpro.com/index.php?main_page=product_info&cPath=30_36&products_id=236&number_of_uploads=0
-End URL should be:|http://dev.venthoodpro.com/48-professional-range-hood-model-pljw-102-48-1000-cfm-blower.html|
-But is actually returning:|http://dev.venthoodpro.com/36-wall-range-hood-prov-36w-430.html|
-counter iteration:1061
-           
-URL to redirect: http://dev.venthoodpro.com/index.php?main_page=product_info&cPath=30_36&products_id=407
-End URL should be:|http://dev.venthoodpro.com/54-stainless-wall-hood-plfw-750-54-1100cfm.html|
-But is actually returning:|http://dev.venthoodpro.com/36-pro-series-model-plfw-832-36-2000-cfm.html|
-counter iteration:1062
-           
-URL to redirect: http://dev.venthoodpro.com/index.php?main_page=product_info&cPath=30_36&products_id=426
-End URL should be:|http://dev.venthoodpro.com/54-pro-series-model-plfw-832-54-2000-cfm.html|
-But is actually returning:|http://dev.venthoodpro.com/36-prov-chimney-wall-hood-most-popular-prov-36wc-430.html|
-counter iteration:1063
-           
-URL to redirect: http://dev.venthoodpro.com/index.php?main_page=product_info&cPath=30_36&products_id=448
-End URL should be:|http://dev.venthoodpro.com/54-proline-pljw-104-wall-range-hood.html|
-But is actually returning:|http://dev.venthoodpro.com/36-inch-pros-island-range-hood-prosi36.html|
-counter iteration:1064
-           
-URL to redirect: http://dev.venthoodpro.com/index.php?main_page=product_info&cPath=30_36&products_id=458
-End URL should be:|http://dev.venthoodpro.comproductdoesntexist|
-But is actually returning:|http://dev.venthoodpro.com/36-island-range-hood-provi-36-single.html|
-counter iteration:1065
-           
-URL to redirect: http://dev.venthoodpro.com/index.php?main_page=product_info&cPath=30_37&products_id=10
-End URL should be:|http://dev.venthoodpro.comproductdoesntexist|
-But is actually returning:|http://dev.venthoodpro.com/42-professional-wall-hood-1000-cfm-model-pljw-109-42.html|
-counter iteration:1066
-           
-URL to redirect: http://dev.venthoodpro.com/index.php?main_page=product_info&cPath=30_37&products_id=223
-End URL should be:|http://dev.venthoodpro.com/42-professional-wall-hood-1000-cfm-model-pljw-109-42.html|
-But is actually returning:|http://dev.venthoodpro.com/42-stainless-wall-hood-plzw-697-42-1200cfm.html|
-counter iteration:1067
-           
-URL to redirect: http://dev.venthoodpro.com/index.php?main_page=product_info&cPath=30_37&products_id=234
-End URL should be:|http://dev.venthoodpro.com/42-professional-wall-hood-with-remote-commercial-plfw-116-42.html|
-But is actually returning:|http://dev.venthoodpro.com/42-professional-wall-hood-commercial-quality-pljw-117-42.html|
-counter iteration:1068
-           
-URL to redirect: http://dev.venthoodpro.com/index.php?main_page=product_info&cPath=30_37&products_id=427
-End URL should be:|http://dev.venthoodpro.com/42-professional-wall-hood-with-remote-commercial-plfw-115-42.html|
-But is actually returning:|http://dev.venthoodpro.com/42-prov-chimney-wall-hood-430-stainless-steel-prov-42wc-430.html|
-counter iteration:1069
-           
-URL to redirect: http://dev.venthoodpro.com/index.php?main_page=product_info&cPath=30_37&products_id=444
-End URL should be:|http://dev.venthoodpro.com/42-under-cabinet-rangehood-pljw-108-42.html|
-But is actually returning:|http://dev.venthoodpro.com/42-pros-wall-hood-most-popular-new-model-1320-cfm-prosw42.html|
-counter iteration:1070
-           
-URL to redirect: http://dev.venthoodpro.com/index.php?main_page=product_info&cPath=30_37&products_id=465
-End URL should be:|http://dev.venthoodpro.com/checkout/cartindex.php|
-But is actually returning:|http://dev.venthoodpro.com/42-professional-wall-hood-with-remote-commercial-plfw-115-42.html|
-counter iteration:1071
-           
-URL to redirect: http://dev.venthoodpro.com/index.php?main_page=product_info&cPath=30_37&products_id=526
-End URL should be:|http://dev.venthoodpro.com/48-professional-wall-hood-commercial-quality-pljw-113-48.html|
-But is actually returning:|http://dev.venthoodpro.com/42-wall-range-hood-plfi-755-42.html|
-counter iteration:1072
-           
-URL to redirect: http://dev.venthoodpro.com/index.php?main_page=product_info&cPath=30_38&products_id=150
-End URL should be:|http://dev.venthoodpro.com/48-professional-wall-hood-commercial-quality-pljw-121-48.html|
-But is actually returning:|http://dev.venthoodpro.com/48-professional-wall-hood-commercial-quality-pljw-113-48.html|
-counter iteration:1073
-           
-URL to redirect: http://dev.venthoodpro.com/index.php?main_page=product_info&cPath=30_38&products_id=157
-End URL should be:|http://dev.venthoodpro.com/48-professional-range-hood-1000-cfm-commercial-pljw-101-48.html|
-But is actually returning:|http://dev.venthoodpro.com/48-professional-wall-hood-commercial-quality-pljw-117-48.html|
-counter iteration:1074
-           
-URL to redirect: http://dev.venthoodpro.com/index.php?main_page=product_info&cPath=30_38&products_id=192
-End URL should be:|http://dev.venthoodpro.com/48-professional-wall-hood-with-remote-commercial-plfw-116-48.html|
-But is actually returning:|http://dev.venthoodpro.com/48-stainless-wall-hood-plzw-697-48-1200cfm.html|
-counter iteration:1075
-           
-URL to redirect: http://dev.venthoodpro.com/index.php?main_page=product_info&cPath=30_38&products_id=347
-End URL should be:|http://dev.venthoodpro.com/48-professional-wall-hood-commercial-quality-pljw-120-48.html|
-But is actually returning:|http://dev.venthoodpro.com/48-professional-wall-hood-with-remote-commercial-plfw-115-48.html|
-counter iteration:1076
-           
-URL to redirect: http://dev.venthoodpro.com/index.php?main_page=product_info&cPath=30_38&products_id=483
-End URL should be:|http://dev.venthoodpro.com/54-professional-wall-range-hood-pljw-109-54.html|
-But is actually returning:|http://dev.venthoodpro.com/48-under-cabinet-range-hood-pljw-108-48.html|
-counter iteration:1077
-           
-URL to redirect: http://dev.venthoodpro.com/index.php?main_page=product_info&cPath=30_38&products_id=499
-End URL should be:|http://dev.venthoodpro.com/60-wall-range-hood-prov-60w.html|
-But is actually returning:|http://dev.venthoodpro.com/48-wallmount-range-hood-plfw-755-48.html|
-counter iteration:1078
-           
-URL to redirect: http://dev.venthoodpro.com/index.php?main_page=product_info&cPath=30_57&products_id=474
-End URL should be:|http://dev.venthoodpro.com/60-pro-series-model-plfw-832-60-2000-cfm.html|
-But is actually returning:|http://dev.venthoodpro.com/54-professional-range-hood-2000cfm-commercial-pljw-101-54.html|
-counter iteration:1079
-           
-URL to redirect: http://dev.venthoodpro.com/index.php?main_page=product_info&cPath=30_60&products_id=265Welcome to
-End URL should be:|http://dev.venthoodpro.com/46-professional-hood-insert-model-plfl-832-46.html|
-But is actually returning:|http://dev.venthoodpro.com/index.php?main_page=product_info&cPath=30_60&products_id=265Welcome to|
-counter iteration:1080
-           
-URL to redirect: http://dev.venthoodpro.com/index.php?main_page=product_info&cPath=30_60&products_id=335
-End URL should be:|http://dev.venthoodpro.com/58-professional-hood-insert-model-plfl-832-58-6-speed-1000cfm.html|
-But is actually returning:|http://dev.venthoodpro.com/60-stainless-wall-hood-plfw-750-60-1100cfm.html|
-counter iteration:1081
-           
-URL to redirect: http://dev.venthoodpro.com/index.php?main_page=product_info&cPath=31_41&products_id=288&ref=lexity&_vs=adroll_facebook&_vm=facebook_retarget
-End URL should be:|http://dev.venthoodpro.comproductdoesntexist|
-But is actually returning:|http://dev.venthoodpro.com/36-island-range-hood-slimline-pro-plfi-544-36.html|
-counter iteration:1082
-           
-URL to redirect: http://dev.venthoodpro.com/index.php?main_page=product_info&cPath=31_41&products_id=338
-End URL should be:|http://dev.venthoodpro.com/30-prov-chimney-wall-hood-brand-new-model-prov-30wc-430.html|
-But is actually returning:|http://dev.venthoodpro.com/36-island-hood-plfi-750-36-1100cfm.html|
-counter iteration:1083
-           
-URL to redirect: http://dev.venthoodpro.com/index.php?main_page=product_info&cPath=31_41&products_id=414
-End URL should be:|http://dev.venthoodpro.com/36-kecom-wall-hood-1200-cfm.html|
-But is actually returning:|http://dev.venthoodpro.com/36-stainless-island-hood-plzi-697-36-1200cfm.html|
-counter iteration:1084
-           
-URL to redirect: http://dev.venthoodpro.com/index.php?main_page=product_info&cPath=31_81&products_id=492
-End URL should be:|http://dev.venthoodpro.com/42-wall-range-hood-prov-42w-430.html|
-But is actually returning:|http://dev.venthoodpro.com/54-professional-island-range-hood-plji-102-54.html|
-counter iteration:1085
-           
-URL to redirect: http://dev.venthoodpro.com/index.php?main_page=product_info&cPath=31_82&products_id=471
-End URL should be:|http://dev.venthoodpro.com/42-island-range-hood-provi-42.html|
-But is actually returning:|http://dev.venthoodpro.com/60-island-range-hood-provi-60.html|
-counter iteration:1086
-           
-URL to redirect: http://dev.venthoodpro.com/index.php?main_page=product_info&cPath=31_82&products_id=493
-End URL should be:|http://dev.venthoodpro.com/48-wall-hood-2000cfm-model-pljw-109-48.html|
-But is actually returning:|http://dev.venthoodpro.com/60-professional-island-range-hood-plji-102-60.html|
-counter iteration:1087
-           
-URL to redirect: http://dev.venthoodpro.com/index.php?main_page=product_info&cPath=31_86&products_id=88
-End URL should be:|http://dev.venthoodpro.com/48-professional-range-hood-model-plfw812-48-w-2000-cfm-blower.html|
-But is actually returning:|http://dev.venthoodpro.com/island-range-hoods/14-island-hoods.html|
-counter iteration:1088
-           
-URL to redirect: http://dev.venthoodpro.com/index.php?main_page=product_info&cPath=32_45&products_id=225
-End URL should be:|http://dev.venthoodpro.com/60-professional-wall-hood-2000-cfm-model-pljw-109-60.html|
-But is actually returning:|http://dev.venthoodpro.com/index.php?main_page=product_info&cPath=32_45&products_id=225|
-counter iteration:1089
-           
-URL to redirect: http://dev.venthoodpro.com/index.php?main_page=product_info&cPath=32_45&products_id=406&ref=lexity&_vs=adroll_facebook&_vm=facebook_retarget
-End URL should be:|http://dev.venthoodpro.com/30-under-cabinet-range-hood-pljw-185-30.html|
-But is actually returning:|http://dev.venthoodpro.com/30-pro-series-model-plfw-832-30-1000-cfm.html|
-counter iteration:1090
-           
-URL to redirect: http://dev.venthoodpro.com/index.php?main_page=product_info&cPath=32_46&products_id=171
-End URL should be:|http://dev.venthoodpro.com/30-classic-wall-hood-plzw-kb3-30-baffle-filter-760-cfm.html|
-But is actually returning:|http://dev.venthoodpro.com/wall-range-hoods/36-wall-hood.html|
-counter iteration:1091
-           
-URL to redirect: http://dev.venthoodpro.com/index.php?main_page=product_info&cPath=32_46&products_id=28
-End URL should be:|http://dev.venthoodpro.comproductdoesntexist|
-But is actually returning:|http://dev.venthoodpro.com/wall-range-hoods/36-wall-hood.html|
-counter iteration:1092
-           
-URL to redirect: http://dev.venthoodpro.com/index.php?main_page=product_info&cPath=32_46&products_id=283&number_of_uploads=0
-End URL should be:|http://dev.venthoodpro.com/46-pro-hood-insert-plzw-ins-4615-4-spd-1200cfm-15-deep.html|
-But is actually returning:|http://dev.venthoodpro.com/36-wall-mount-range-hood-6-speed-plfw-520-36.html|
-counter iteration:1093
-           
-URL to redirect: http://dev.venthoodpro.com/index.php?main_page=product_info&cPath=32_46&products_id=385
-End URL should be:|http://dev.venthoodpro.com/30-professional-range-hood-w-1000-cfm-blower-model-pljw-101-30.html|
-But is actually returning:|http://dev.venthoodpro.com/36-under-cabinet-range-hood-3-colors-available-plfw581-36.html|
-counter iteration:1094
-           
-URL to redirect: http://dev.venthoodpro.com/index.php?main_page=product_info&cPath=32_47&products_id=223
-End URL should be:|http://dev.venthoodpro.com/30-stainless-wall-hood-plzw-697-30-900cfm.html|
-But is actually returning:|http://dev.venthoodpro.com/42-stainless-wall-hood-plzw-697-42-1200cfm.html|
-counter iteration:1095
-           
-URL to redirect: http://dev.venthoodpro.com/index.php?main_page=product_info&cPath=32_47&products_id=326&number_of_uploads=0
-End URL should be:|http://dev.venthoodpro.com/40-pro-hood-insert-plzw-ins-4015-1200-4-spd-1200cfm-15-deep.html|
-But is actually returning:|http://dev.venthoodpro.com/42-stainless-wall-hood-plfw-750-42-1100cfm.html|
-counter iteration:1096
-           
-URL to redirect: http://dev.venthoodpro.com/index.php?main_page=product_info&cPath=32_47&products_id=374
-End URL should be:|http://dev.venthoodpro.comproductdoesntexist|
-But is actually returning:|http://dev.venthoodpro.com/index.php?main_page=product_info&cPath=32_47&products_id=374|
-counter iteration:1097
-           
-URL to redirect: http://dev.venthoodpro.com/index.php?main_page=product_info&cPath=32_47&products_id=408
-End URL should be:|http://dev.venthoodpro.comproductdoesntexist|
-But is actually returning:|http://dev.venthoodpro.com/42-pro-series-model-plfw-832-42-2000-cfm.html|
-counter iteration:1098
-           
-URL to redirect: http://dev.venthoodpro.com/index.php?main_page=product_info&cPath=32_48&products_id=11
-End URL should be:|http://dev.venthoodpro.com/48-stainless-wall-hood-plzw-697-48-1200cfm.html|
-But is actually returning:|http://dev.venthoodpro.com/48-wall-hood-2000cfm-model-pljw-109-48.html|
-counter iteration:1099
-           
-URL to redirect: http://dev.venthoodpro.com/index.php?main_page=product_info&cPath=32_48&products_id=97
-End URL should be:|http://dev.venthoodpro.comproductdoesntexist|
-But is actually returning:|http://dev.venthoodpro.com/48-professional-range-hood-model-pljw-102-48-1000-cfm-blower.html|
-counter iteration:1100
-           
-URL to redirect: http://dev.venthoodpro.com/index.php?main_page=product_info&cPath=32_56&products_id=334
-End URL should be:|http://dev.venthoodpro.comproductdoesntexist|
-But is actually returning:|http://dev.venthoodpro.com/54-stainless-wall-hood-plfw-750-54-1100cfm.html|
-counter iteration:1101
-           
-URL to redirect: http://dev.venthoodpro.com/index.php?main_page=product_info&cPath=32_56&products_id=410
-End URL should be:|http://dev.venthoodpro.com/42-stainless-wall-hood-plzw-697-42-1200cfm.html|
-But is actually returning:|http://dev.venthoodpro.com/54-pro-series-model-plfw-832-54-2000-cfm.html|
-counter iteration:1102
-           
-URL to redirect: http://dev.venthoodpro.com/index.php?main_page=product_info&cPath=32_56&products_id=540
-End URL should be:|http://dev.venthoodpro.com/42-stainless-wall-hood-plzw-697-42-1200cfm.html|
-But is actually returning:|http://dev.venthoodpro.com/54-proline-pljw-104-wall-range-hood.html|
-counter iteration:1103
-           
-URL to redirect: http://dev.venthoodpro.com/index.php?main_page=product_info&cPath=33_49&?=478
-End URL should be:|http://dev.venthoodpro.com/36-wall-range-hood-prov-36w-430.html|
-But is actually returning:|http://dev.venthoodpro.com/index.php?main_page=product_info&cPath=33_49&?=478|
-counter iteration:1104
-           
-URL to redirect: http://dev.venthoodpro.com/index.php?main_page=product_info&cPath=33_49&products_id=315
-End URL should be:|http://dev.venthoodpro.com/48-wall-range-hood-prov-48w-430.html|
-But is actually returning:|http://dev.venthoodpro.com/index.php?main_page=product_info&cPath=33_49&products_id=315|
-counter iteration:1105
-           
-URL to redirect: http://dev.venthoodpro.com/index.php?main_page=product_info&cPath=33_50&products_id=10
-End URL should be:|http://dev.venthoodpro.com/52-insert-range-hood-prov-52l-430.html|
-But is actually returning:|http://dev.venthoodpro.com/42-professional-wall-hood-1000-cfm-model-pljw-109-42.html|
-counter iteration:1106
-           
-URL to redirect: http://dev.venthoodpro.com/index.php?main_page=product_info&cPath=33_50&products_id=348
-End URL should be:|http://dev.venthoodpro.com/30-island-range-hood-plfi-520-30.html|
-But is actually returning:|http://dev.venthoodpro.com/42-professional-wall-hood-with-remote-commercial-plfw-116-42.html|
-counter iteration:1107
-           
-URL to redirect: http://dev.venthoodpro.com/index.php?main_page=product_info&cPath=33_50&products_id=465
-End URL should be:|http://dev.venthoodpro.com/36-island-range-hood-6-speed-new-ss-filter-style-plfi-520-36.html|
-But is actually returning:|http://dev.venthoodpro.com/42-professional-wall-hood-with-remote-commercial-plfw-115-42.html|
-counter iteration:1108
-           
-URL to redirect: http://dev.venthoodpro.com/index.php?main_page=product_info&cPath=33_50&products_id=482
-End URL should be:|http://dev.venthoodpro.com/prov-chimney-extension-w-430.html|
-But is actually returning:|http://dev.venthoodpro.com/42-under-cabinet-rangehood-pljw-108-42.html|
-counter iteration:1109
-           
-URL to redirect: http://dev.venthoodpro.com/index.php?main_page=product_info&cPath=33_51&products_id=386&number_of_uploads=0&action=add_product
-End URL should be:|http://dev.venthoodpro.com/48-stainless-wall-hood-plfw-750-48-1100cfm.html|
-But is actually returning:|http://dev.venthoodpro.com/checkout/cart|
-counter iteration:1110
-           
-URL to redirect: http://dev.venthoodpro.com/index.php?main_page=product_info&cPath=33_52&products_id=150
-End URL should be:|http://dev.venthoodpro.com/34-pro-hood-insert-plzw-ins-3421-1200-4-spd-1200cfm-21-deep.html|
-But is actually returning:|http://dev.venthoodpro.com/48-professional-wall-hood-commercial-quality-pljw-113-48.html|
-counter iteration:1111
-           
-URL to redirect: http://dev.venthoodpro.com/index.php?main_page=product_info&cPath=33_52&products_id=154
-End URL should be:|http://dev.venthoodpro.com/42-island-range-hood-6-speed-plfi-520-42.html|
-But is actually returning:|http://dev.venthoodpro.com/48-professional-wall-hood-commercial-quality-pljw-121-48.html|
-counter iteration:1112
-           
-URL to redirect: http://dev.venthoodpro.com/index.php?main_page=product_info&cPath=33_52&products_id=218
-End URL should be:|http://dev.venthoodpro.com/42-kecom-island-hood-1200-cfm.html|
-But is actually returning:|http://dev.venthoodpro.com/48-professional-range-hood-1000-cfm-commercial-pljw-101-48.html|
-counter iteration:1113
-           
-URL to redirect: http://dev.venthoodpro.com/index.php?main_page=product_info&cPath=33_52&products_id=349
-End URL should be:|http://dev.venthoodpro.com/48-pro-series-model-plfw-832-48-2000-cfm.html|
-But is actually returning:|http://dev.venthoodpro.com/48-professional-wall-hood-with-remote-commercial-plfw-116-48.html|
-counter iteration:1114
-           
-URL to redirect: http://dev.venthoodpro.com/index.php?main_page=product_info&cPath=33_52&products_id=502
-End URL should be:|http://dev.venthoodpro.com/60-pro-series-model-plfw-832-60-2000-cfm.html|
-But is actually returning:|http://dev.venthoodpro.com/48-professional-wall-hood-commercial-quality-pljw-120-48.html|
-counter iteration:1115
-           
-URL to redirect: http://dev.venthoodpro.com/index.php?main_page=product_info&cPath=33_61&products_id=476
-End URL should be:|http://dev.venthoodpro.com/36-stainless-island-hood-plzi-697-36-1200cfm.html|
-But is actually returning:|http://dev.venthoodpro.com/54-professional-wall-range-hood-pljw-109-54.html|
-counter iteration:1116
-           
-URL to redirect: http://dev.venthoodpro.com/index.php?main_page=product_info&cPath=33_62&products_id=240
-End URL should be:|http://dev.venthoodpro.com/36-pros-wall-hood-most-popular-new-model-prosw36.html|
-But is actually returning:|http://dev.venthoodpro.com/60-wall-range-hood-prov-60w.html|
-counter iteration:1117
-           
-URL to redirect: http://dev.venthoodpro.com/index.php?main_page=product_info&cPath=33_62&products_id=411
-End URL should be:|http://dev.venthoodpro.com/48-pros-wall-hood-most-popular-new-model-prosw48.html|
-But is actually returning:|http://dev.venthoodpro.com/60-pro-series-model-plfw-832-60-2000-cfm.html|
-counter iteration:1118
-           
-URL to redirect: http://dev.venthoodpro.com/index.php?main_page=product_info&cPath=64_68&products_id=396\
-End URL should be:|http://dev.venthoodpro.com/36-inch-pros-island-range-hood-prosi36.html|
-But is actually returning:|http://dev.venthoodpro.com/index.php?main_page=product_info&cPath=64_68&products_id=396\|
-counter iteration:1119
-           
-URL to redirect: http://dev.venthoodpro.com/index.php?main_page=product_info&cPath=64_70&products_id=398
-End URL should be:|http://dev.venthoodpro.com/48-island-range-hood-provi-48.html|
-But is actually returning:|http://dev.venthoodpro.com/58-professional-hood-insert-model-plfl-832-58-6-speed-1000cfm.html|
-counter iteration:1120
-           
-URL to redirect: http://dev.venthoodpro.com/index.php?main_page=product_info&cPath=71
-End URL should be:|http://dev.venthoodpro.com/54-island-rangehood-provi-54.html|
-But is actually returning:|http://dev.venthoodpro.com/index.php?main_page=product_info&cPath=71|
-counter iteration:1121
-           
-URL to redirect: http://dev.venthoodpro.com/index.php?main_page=product_info&cPath=71_72&products_id=425
-End URL should be:|http://dev.venthoodpro.com/30-wall-range-hood-pljw-30-120-30.html|
-But is actually returning:|http://dev.venthoodpro.com/30-prov-chimney-wall-hood-brand-new-model-prov-30wc-430.html|
-counter iteration:1122
-           
-URL to redirect: http://dev.venthoodpro.com/index.php?main_page=product_info&cPath=71_73&products_id=380
-End URL should be:|http://dev.venthoodpro.com/60-wall-rangehood-plfw-755-60.html|
-But is actually returning:|http://dev.venthoodpro.com/36-kecom-wall-hood-1200-cfm.html|
-counter iteration:1123
-           
-URL to redirect: http://dev.venthoodpro.com/index.php?main_page=product_info&cPath=71_74&products_id=237
-End URL should be:|http://dev.venthoodpro.com/48-professional-wall-hood-commercial-quality-pljw-120-48.html|
-But is actually returning:|http://dev.venthoodpro.com/42-wall-range-hood-prov-42w-430.html|
-counter iteration:1124
-           
-URL to redirect: http://dev.venthoodpro.com/index.php?main_page=product_info&cPath=71_74&products_id=459
-End URL should be:|http://dev.venthoodpro.com/ductless-kits-for-all-plzi-models-set-of-2-charcoal-filters.html|
-But is actually returning:|http://dev.venthoodpro.com/42-island-range-hood-provi-42.html|
-counter iteration:1125
-           
-URL to redirect: http://dev.venthoodpro.com/index.php?main_page=product_info&cPath=71_75&products_id=11
-End URL should be:|http://dev.venthoodpro.com/48-wall-range-hood-prov-48w-430.html|
-But is actually returning:|http://dev.venthoodpro.com/48-wall-hood-2000cfm-model-pljw-109-48.html|
-counter iteration:1126
-           
-URL to redirect: http://dev.venthoodpro.com/index.php?main_page=product_info&cPath=71_75&products_id=402&number_of_uploads=0
-End URL should be:|http://dev.venthoodpro.com/36-island-range-hood-6-speed-new-ss-filter-style-plfi-520-36.html|
-But is actually returning:|http://dev.venthoodpro.com/48-professional-range-hood-model-plfw812-48-w-2000-cfm-blower.html|
-counter iteration:1127
-           
-URL to redirect: http://dev.venthoodpro.com/index.php?main_page=product_info&cPath=71_77&products_id=477
-End URL should be:|http://dev.venthoodpro.com/slimline-island-range-hood-plfi-544-30.html|
-But is actually returning:|http://dev.venthoodpro.com/60-professional-wall-hood-2000-cfm-model-pljw-109-60.html|
-counter iteration:1128
-           
-URL to redirect: http://dev.venthoodpro.com/index.php?main_page=product_info&cPath=93&products_id=478
-End URL should be:|http://dev.venthoodpro.com/30-professional-wall-hood-commercial-quality-pljw-125-30.html|
-But is actually returning:|http://dev.venthoodpro.com/30-under-cabinet-range-hood-pljw-185-30.html|
-counter iteration:1129
-           
-URL to redirect: http://dev.venthoodpro.com/index.php?main_page=product_info&products_id=104:676ed5e2e9f91611005c5e650f93da80
-End URL should be:|http://dev.venthoodpro.com/slimline-island-range-hood-plfi-544-30.html|
-But is actually returning:|http://dev.venthoodpro.com/30-classic-wall-hood-plzw-kb3-30-baffle-filter-760-cfm.html|
-counter iteration:1130
-           
-URL to redirect: http://dev.venthoodpro.com/index.php?main_page=product_info&products_id=107
-End URL should be:|http://dev.venthoodpro.com/36-island-range-hood-6-speed-new-ss-filter-style-plfi-520-36.html|
-But is actually returning:|http://dev.venthoodpro.com/index.php?main_page=product_info&products_id=107|
-counter iteration:1131
-           
-URL to redirect: http://dev.venthoodpro.com/index.php?main_page=product_info&products_id=164
-End URL should be:|http://dev.venthoodpro.com/36-island-range-hood-6-speed-new-ss-filter-style-plfi-520-36.html|
-But is actually returning:|http://dev.venthoodpro.com/46-pro-hood-insert-plzw-ins-4615-4-spd-1200cfm-15-deep.html|
-counter iteration:1132
-           
-URL to redirect: http://dev.venthoodpro.com/index.php?main_page=product_info&products_id=176:d2b8b1830c95fd0805b51e1ef08572b6
-End URL should be:|http://dev.venthoodpro.com/new-products|
-But is actually returning:|http://dev.venthoodpro.com/30-professional-range-hood-w-1000-cfm-blower-model-pljw-101-30.html|
-counter iteration:1133
-           
-URL to redirect: http://dev.venthoodpro.com/index.php?main_page=product_info&products_id=183:99bd1a1b25d60d98d3b79e7b2667321e
-End URL should be:|http://dev.venthoodpro.com/new-products|
-But is actually returning:|http://dev.venthoodpro.com/30-stainless-wall-hood-plzw-697-30-900cfm.html|
-counter iteration:1134
-           
-URL to redirect: http://dev.venthoodpro.com/index.php?main_page=product_info&products_id=184
-End URL should be:|http://dev.venthoodpro.com/new-products|
-But is actually returning:|http://dev.venthoodpro.com/40-pro-hood-insert-plzw-ins-4015-1200-4-spd-1200cfm-15-deep.html|
-counter iteration:1135
-           
-URL to redirect: http://dev.venthoodpro.com/index.php?main_page=product_info&products_id=187
-End URL should be:|http://dev.venthoodpro.com/new-products|
-But is actually returning:|http://dev.venthoodpro.com/index.php?main_page=product_info&products_id=187|
-counter iteration:1136
-           
-URL to redirect: http://dev.venthoodpro.com/index.php?main_page=product_info&products_id=189:592fce259d98b30e711a9d74fe4987b7
-End URL should be:|http://dev.venthoodpro.com/checkout/cartindex.php|
-But is actually returning:|http://dev.venthoodpro.com/index.php?main_page=product_info&products_id=189:592fce259d98b30e711a9d74fe4987b7|
-counter iteration:1137
-           
-URL to redirect: http://dev.venthoodpro.com/index.php?main_page=product_info&products_id=192
-End URL should be:|http://dev.venthoodpro.com/checkout/cartindex.php|
-But is actually returning:|http://dev.venthoodpro.com/48-stainless-wall-hood-plzw-697-48-1200cfm.html|
-counter iteration:1138
-           
-URL to redirect: http://dev.venthoodpro.com/index.php?main_page=product_info&products_id=194
-End URL should be:|http://dev.venthoodpro.com/checkout/cartindex.php|
-But is actually returning:|http://dev.venthoodpro.com/index.php?main_page=product_info&products_id=194|
-counter iteration:1139
-           
-URL to redirect: http://dev.venthoodpro.com/index.php?main_page=product_info&products_id=222
-End URL should be:|http://dev.venthoodpro.com/checkout/cartindex.php|
-But is actually returning:|http://dev.venthoodpro.com/index.php?main_page=product_info&products_id=222|
-counter iteration:1140
-           
-URL to redirect: http://dev.venthoodpro.com/index.php?main_page=product_info&products_id=223
-End URL should be:|http://dev.venthoodpro.com/checkout/cartindex.php|
-But is actually returning:|http://dev.venthoodpro.com/42-stainless-wall-hood-plzw-697-42-1200cfm.html|
-counter iteration:1141
-           
-URL to redirect: http://dev.venthoodpro.com/index.php?main_page=product_info&products_id=223:a94ecfc38e96f09109b762a5d8a87011
-End URL should be:|http://dev.venthoodpro.com/checkout/cartindex.php|
-But is actually returning:|http://dev.venthoodpro.com/42-stainless-wall-hood-plzw-697-42-1200cfm.html|
-counter iteration:1142
-           
-URL to redirect: http://dev.venthoodpro.com/index.php?main_page=product_info&products_id=236:54c5e535eb46f53b626643139edd51fa
-End URL should be:|http://dev.venthoodpro.com/checkout/cartindex.php|
-But is actually returning:|http://dev.venthoodpro.com/36-wall-range-hood-prov-36w-430.html|
-counter iteration:1143
-           
-URL to redirect: http://dev.venthoodpro.com/index.php?main_page=product_info&products_id=238&ref=lexity&_vs=adroll_facebook&_vm=facebook_retarget
-End URL should be:|http://dev.venthoodpro.com/checkout/cartindex.php|
-But is actually returning:|http://dev.venthoodpro.com/48-wall-range-hood-prov-48w-430.html|
-counter iteration:1144
-           
-URL to redirect: http://dev.venthoodpro.com/index.php?main_page=product_info&products_id=244:6133ac2c6d46520c90e6907b1ef85b40
-End URL should be:|http://dev.venthoodpro.com|
-But is actually returning:|http://dev.venthoodpro.com/52-insert-range-hood-prov-52l-430.html|
-counter iteration:1145
-           
-URL to redirect: http://dev.venthoodpro.com/index.php?main_page=product_info&products_id=294:b5d10fdf932e5fe4f373c6fb01a289dd
-End URL should be:||
-But is actually returning:|http://dev.venthoodpro.com/30-island-range-hood-plfi-520-30.html|
-counter iteration:1146
-           
-URL to redirect: http://dev.venthoodpro.com/index.php?main_page=product_info&products_id=295:2f33946c3020e8b1d4e1961e12da9f4c
-End URL should be:||
-But is actually returning:|http://dev.venthoodpro.com/36-island-range-hood-6-speed-new-ss-filter-style-plfi-520-36.html|
-counter iteration:1147
-           
-URL to redirect: http://dev.venthoodpro.com/index.php?main_page=product_info&products_id=297
-End URL should be:||
-But is actually returning:|http://dev.venthoodpro.com/prov-chimney-extension-w-430.html|
-counter iteration:1148
-           
-URL to redirect: http://dev.venthoodpro.com/index.php?main_page=product_info&products_id=333:8f2cbd6c906de73101720a5d22d4de9f
-End URL should be:||
-But is actually returning:|http://dev.venthoodpro.com/48-stainless-wall-hood-plfw-750-48-1100cfm.html|
-counter iteration:1149
-           
-URL to redirect: http://dev.venthoodpro.com/index.php?main_page=product_info&products_id=339
-End URL should be:||
-But is actually returning:|http://dev.venthoodpro.com/34-pro-hood-insert-plzw-ins-3421-1200-4-spd-1200cfm-21-deep.html|
-counter iteration:1150
-           
-URL to redirect: http://dev.venthoodpro.com/index.php?main_page=product_info&products_id=342&gm_ccd=53602
-End URL should be:||
-But is actually returning:|http://dev.venthoodpro.com/42-island-range-hood-6-speed-plfi-520-42.html|
-counter iteration:1151
-           
-URL to redirect: http://dev.venthoodpro.com/index.php?main_page=product_info&products_id=381
-End URL should be:||
-But is actually returning:|http://dev.venthoodpro.com/42-kecom-island-hood-1200-cfm.html|
-counter iteration:1152
-           
-URL to redirect: http://dev.venthoodpro.com/index.php?main_page=product_info&products_id=409&ref=lexity&_vs=adroll_facebook&_vm=facebook_retarget
-End URL should be:||
-But is actually returning:|http://dev.venthoodpro.com/48-pro-series-model-plfw-832-48-2000-cfm.html|
-counter iteration:1153
-           
-URL to redirect: http://dev.venthoodpro.com/index.php?main_page=product_info&products_id=411:a42df3f77d47dfdfa382edbad28c38bd
-End URL should be:||
-But is actually returning:|http://dev.venthoodpro.com/60-pro-series-model-plfw-832-60-2000-cfm.html|
-counter iteration:1154
-           
-URL to redirect: http://dev.venthoodpro.com/index.php?main_page=product_info&products_id=414
-End URL should be:||
-But is actually returning:|http://dev.venthoodpro.com/36-stainless-island-hood-plzi-697-36-1200cfm.html|
-counter iteration:1155
-           
-URL to redirect: http://dev.venthoodpro.com/index.php?main_page=product_info&products_id=442:8c0c03f15391c2597a3852dee4d8a03c
-End URL should be:||
-But is actually returning:|http://dev.venthoodpro.com/36-pros-wall-hood-most-popular-new-model-prosw36.html|
-counter iteration:1156
-           
-URL to redirect: http://dev.venthoodpro.com/index.php?main_page=product_info&products_id=445:2adea33f4afa65c8f76df251d364881a
-End URL should be:||
-But is actually returning:|http://dev.venthoodpro.com/48-pros-wall-hood-most-popular-new-model-prosw48.html|
-counter iteration:1157
-           
-URL to redirect: http://dev.venthoodpro.com/index.php?main_page=product_info&products_id=448:6c1627e93d8afd526bdb94f6fdc31fbd
-End URL should be:||
-But is actually returning:|http://dev.venthoodpro.com/36-inch-pros-island-range-hood-prosi36.html|
-counter iteration:1158
-           
-URL to redirect: http://dev.venthoodpro.com/index.php?main_page=product_info&products_id=460:7b036b7938fcc63b2506483ad5083c16
-End URL should be:||
-But is actually returning:|http://dev.venthoodpro.com/48-island-range-hood-provi-48.html|
-counter iteration:1159
-           
-URL to redirect: http://dev.venthoodpro.com/index.php?main_page=product_info&products_id=470:95e853e1f6d2077477633e67c9b569fc
-End URL should be:||
-But is actually returning:|http://dev.venthoodpro.com/54-island-rangehood-provi-54.html|
-counter iteration:1160
-           
-URL to redirect: http://dev.venthoodpro.com/index.php?main_page=product_info&products_id=497:1e6a81d8a72e0e82421fc8c24cb2d4f4
-End URL should be:||
-But is actually returning:|http://dev.venthoodpro.com/30-wall-range-hood-pljw-30-120-30.html|
-counter iteration:1161
-           
-URL to redirect: http://dev.venthoodpro.com/index.php?main_page=product_info&products_id=500:7099e9912e8f2c37f0eefa9e7cf24105
-End URL should be:||
-But is actually returning:|http://dev.venthoodpro.com/60-wall-rangehood-plfw-755-60.html|
-counter iteration:1162
-           
-URL to redirect: http://dev.venthoodpro.com/index.php?main_page=product_info&products_id=502:ce023b8012d5e5ccc1518479e8ee8d48
-End URL should be:||
-But is actually returning:|http://dev.venthoodpro.com/48-professional-wall-hood-commercial-quality-pljw-120-48.html|
-counter iteration:1163
-           
-URL to redirect: http://dev.venthoodpro.com/index.php?main_page=product_info&products_id=61
-End URL should be:||
-But is actually returning:|http://dev.venthoodpro.com/ductless-kits-for-all-plzi-models-set-of-2-charcoal-filters.html|
-counter iteration:1164
-           
-URL to redirect: http://dev.venthoodpro.com/index.php?main_page=product_reviews_info&products_id=238&reviews_id=29
-End URL should be:||
-But is actually returning:|http://dev.venthoodpro.com/48-wall-range-hood-prov-48w-430.html|
-counter iteration:1165
-           
-URL to redirect: http://dev.venthoodpro.com/index.php?main_page=product_reviews_info&products_id=295&reviews_id=37
-End URL should be:||
-But is actually returning:|http://dev.venthoodpro.com/36-island-range-hood-6-speed-new-ss-filter-style-plfi-520-36.html|
-counter iteration:1166
-           
-URL to redirect: http://dev.venthoodpro.com/index.php?main_page=product_reviews&cPath=31_40&products_id=290&number_of_uploads=0
-End URL should be:||
-But is actually returning:|http://dev.venthoodpro.com/slimline-island-range-hood-plfi-544-30.html|
-counter iteration:1167
-           
-URL to redirect: http://dev.venthoodpro.com/index.php?main_page=product_reviews&cPath=33_49&products_id=230
-End URL should be:||
-But is actually returning:|http://dev.venthoodpro.com/30-professional-wall-hood-commercial-quality-pljw-125-30.html|
-counter iteration:1168
-           
-URL to redirect: http://dev.venthoodpro.com/index.php?main_page=product_reviews&products_id=290&number_of_uploads=0
-End URL should be:||
-But is actually returning:|http://dev.venthoodpro.com/slimline-island-range-hood-plfi-544-30.html|
-counter iteration:1169
-           
-URL to redirect: http://dev.venthoodpro.com/index.php?main_page=product_reviews&products_id=295
-End URL should be:||
-But is actually returning:|http://dev.venthoodpro.com/36-island-range-hood-6-speed-new-ss-filter-style-plfi-520-36.html|
-counter iteration:1170
-           
-URL to redirect: http://dev.venthoodpro.com/index.php?main_page=product_reviews&products_id=295&number_of_uploads=0
-End URL should be:||
-But is actually returning:|http://dev.venthoodpro.com/36-island-range-hood-6-speed-new-ss-filter-style-plfi-520-36.html|
-counter iteration:1171
-           
-URL to redirect: http://dev.venthoodpro.com/index.php?main_page=products_new&disp_order=1
-End URL should be:||
-But is actually returning:|http://dev.venthoodpro.com/new-products|
-counter iteration:1172
-           
-URL to redirect: http://dev.venthoodpro.com/index.php?main_page=products_new&disp_order=1&page=24
-End URL should be:||
-But is actually returning:|http://dev.venthoodpro.com/new-products|
-counter iteration:1173
-           
-URL to redirect: http://dev.venthoodpro.com/index.php?main_page=products_new&disp_order=2&page=32
-End URL should be:||
-But is actually returning:|http://dev.venthoodpro.com/new-products|
-counter iteration:1174
-           
-URL to redirect: http://dev.venthoodpro.com/index.php?main_page=products_new&disp_order=3&page=8
-End URL should be:||
-But is actually returning:|http://dev.venthoodpro.com/new-products|
-counter iteration:1175
-           
-URL to redirect: http://dev.venthoodpro.com/index.php?main_page=shopping_cart&product_id=176:c1f08ed0d0af2ade5c83352d2bfa9c9d
-End URL should be:||
-But is actually returning:|http://dev.venthoodpro.com/checkout/cart|
-counter iteration:1176
-           
-URL to redirect: http://dev.venthoodpro.com/index.php?main_page=shopping_cart&product_id=189:592fce259d98b30e711a9d74fe4987b7
-End URL should be:||
-But is actually returning:|http://dev.venthoodpro.com/checkout/cart|
-counter iteration:1177
-           
-URL to redirect: http://dev.venthoodpro.com/index.php?main_page=shopping_cart&product_id=230
-End URL should be:||
-But is actually returning:|http://dev.venthoodpro.com/checkout/cart|
-counter iteration:1178
-           
-URL to redirect: http://dev.venthoodpro.com/index.php?main_page=shopping_cart&product_id=243:908a7eca8bf934ea6c436b0cc9c53a13
-End URL should be:||
-But is actually returning:|http://dev.venthoodpro.com/checkout/cart|
-counter iteration:1179
-           
-URL to redirect: http://dev.venthoodpro.com/index.php?main_page=shopping_cart&product_id=283:fa7e805607cac2c105ee910afac02e1d
-End URL should be:||
-But is actually returning:|http://dev.venthoodpro.com/checkout/cart|
-counter iteration:1180
-           
-URL to redirect: http://dev.venthoodpro.com/index.php?main_page=shopping_cart&product_id=290:0a6697e245853c5d8381900e736e0af2
-End URL should be:||
-But is actually returning:|http://dev.venthoodpro.com/checkout/cart|
-counter iteration:1181
-           
-URL to redirect: http://dev.venthoodpro.com/index.php?main_page=shopping_cart&product_id=460:d7ecb78a6e88000c4b7b5af05714d4c5
-End URL should be:||
-But is actually returning:|http://dev.venthoodpro.com/checkout/cart|
-counter iteration:1182
-           
-URL to redirect: http://dev.venthoodpro.com/index.php?main_page=shopping_cart&product_id=506:b3258105529c071463c61474f2546189
-End URL should be:||
-But is actually returning:|http://dev.venthoodpro.com/checkout/cart|
-counter iteration:1183
-           
-URL to redirect: http://dev.venthoodpro.com/index.php?ref=lexity&_vs=google&ad=46281942180&_vm=cpm
-End URL should be:||
-But is actually returning:|http://dev.venthoodpro.com/index.php|
-counter iteration:1184
-           
-URL to redirect: http://dev.venthoodpro.com/index.php?ref=lexity&_vs=google&ad=46281943500&_vm=cpm
-End URL should be:||
-But is actually returning:|http://dev.venthoodpro.com/index.php|
-counter iteration:1185
-           
-URL to redirect: http://dev.venthoodpro.com/index.php?ref=lexity&_vs=google&ad=46282663380&_vm=cpm
-End URL should be:||
-But is actually returning:|http://dev.venthoodpro.com/index.php|
-counter iteration:1186
-           
-URL to redirect: http://dev.venthoodpro.com/index.php?ref=lexity&_vs=google&ad=47742238740&_vm=cpm
-End URL should be:||
-But is actually returning:|http://dev.venthoodpro.com/index.php|
-counter iteration:1187
-           
-URL to redirect: http://dev.venthoodpro.com/index.php?ref=lexity&_vs=google&ad=47742481020&_vm=cpm
-End URL should be:||
-But is actually returning:|http://dev.venthoodpro.com/index.php|
-counter iteration:1188
-           
-URL to redirect: http://dev.venthoodpro.com/index.php?ref=lexity&_vs=google&ad=47742541260&_vm=cpm
-End URL should be:||
-But is actually returning:|http://dev.venthoodpro.com/index.php|
-counter iteration:1189
+counter iteration:1004
            
